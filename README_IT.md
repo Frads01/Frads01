@@ -1,6 +1,6 @@
 <div align="center">
 
-# Benvenuti nella homepage di Frads! 👋
+# Benvenuto nella homepage di Frads! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=Sito+in+costruzione!+🚧;Al+lavoro+su+qualcosa+di+grande...;Torna+presto+a+trovarmi!)](https://git.io/typing-svg)
 
