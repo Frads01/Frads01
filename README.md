@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=Profile+under+construction+🚧;Working+on+something+great...;Check+back+soon!)](https://git.io/typing-svg)
 
-*The website and README for this profile are currently under construction. In the meantime, you can explore the projects I have worked on and collaborated on below!*
+*The website and README for this profile are currently under construction. In the meantime, you can check out the projects I have contributed to below!*
 
 ---
 
