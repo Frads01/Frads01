@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Frads01/Frads01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to Frads homepage! 👋
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=Profile+Under+Construction+🚧;Working+on+something+great...;Check+back+soon!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> *Il sito e il README di questo profilo sono attualmente in costruzione.*
+
+---
+
+</div>
+
+### 📫 Contatti
+*   [**LinkedIn**](https://www.linkedin.com/in/francesco-di-santo-1b6ab7261/)
