@@ -1,4 +1,4 @@
-<h1 align="center">Benvenuti nellla homepage di Frads! 👋</h1>
+<h1 align="center">Benvenuti nella homepage di Frads! 👋</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@
 
 <br>
 
-## Informazioni su di me
+## Infos
 
 Studente magistrale in Ingegneria Informatica presso il **Politecnico di Torino**, specializzato in Computer Graphics & Multimedia. Lavoro all'intersezione tra **Extended Reality, grafica 3D e Machine Learning applicato** — progettando ambienti immersivi e sviluppando le pipeline di computer vision e ML che li rendono più intelligenti.
 
