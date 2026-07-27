@@ -1,18 +1,30 @@
-<div align="center">
+<h1 align="center">Welcome to Frads homepage! 👋</h1>
 
-# Welcome to Frads' homepage! 👋
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,rust,c,cpp,java,js,ts,react" alt="My Skills" />
+  </a>
+</p>
 
-> [!NOTE]
-> The README for this profile is currently under construction. In the meantime, you can check out the projects I have contributed to below!
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,blender,opencv,vscode,pycharm,rider,clion,intellij" alt="My Skills" />
+  </a>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux" alt="My Skills" />
+  </a>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francescodisanto14@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-di-santo-1b6ab7261/)
-[![CV (English)](https://img.shields.io/badge/CV%20(English)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/Frads01/Frads01/blob/main/cv_eng.pdf)
-[![CV (Italian)](https://img.shields.io/badge/CV%20(Italiano)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/Frads01/Frads01/blob/main/cv_ita.pdf)
-
-</div>
+<p align="center">
+  <br>
+  <a href="mailto:francescodisanto14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/francesco-di-santo-1b6ab7261/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Frads01/Frads01/blob/main/cv_eng.pdf"><img src="https://img.shields.io/badge/CV%20(English)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV English"></a>
+  <a href="https://github.com/Frads01/Frads01/blob/main/cv_ita.pdf"><img src="https://img.shields.io/badge/CV%20(Italiano)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV Italian"></a>
+</p>
 
 <br>
 
@@ -22,129 +34,146 @@ Master's student in Computer Engineering at **Politecnico di Torino**, specializ
 
 Currently completing a thesis on evaluating cognitive states in XR environments through active and passive brain-computer interfaces.
 
-<br>
-
-## Stack
-
-**Languages**
-&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Graphics & XR**
-&nbsp;&nbsp;![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-![ARKit](https://img.shields.io/badge/AR%20Foundation-000000?style=flat-square&logo=apple&logoColor=white)
-
-**AI / Computer Vision**
-&nbsp;&nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Web**
-&nbsp;&nbsp;![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+> [!NOTE]
+> The README for this profile is currently under construction. In the meantime, you can check out the projects I have contributed to below!
 
 <br>
+
+<!-- 
+  Per aggiungere più immagini, usa un blocco <p> con più tag <img> affiancati o impilati:
+  <img src="URL_IMMAGINE_1" alt="Preview 1" width="48%">
+  <img src="URL_IMMAGINE_2" alt="Preview 2" width="48%">
+-->
 
 ## Featured Projects
 
-<details open>
-<summary><strong>🧑‍🤝‍🧑 Facial Verification — Geometric Landmarks vs. Neural Embeddings</strong></summary>
-<br>
+### 🧑‍🤝‍🧑 [Facial Verification — Geometric Landmarks vs. Neural Embeddings](https://github.com/SalvatoreGiugliano98/FaceVerification)
 
-iOS app (Unity + AR Foundation) comparing two face-verification approaches: a 3D geometric method using TrueDepth point clouds across 17 anatomical landmarks, versus a 2D neural method (ArcFace / ResNet-100) comparing 512-d embeddings via cosine similarity. Over 100+ trials, the 3D approach reached **97.12% accuracy / 100% recall**, while the neural approach reached **100% specificity**.
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Facial+Verification+Preview" alt="Facial Verification Preview" width="100%">
 
-`Unity` `C#` `AR Foundation` `ArcFace`
-&nbsp;·&nbsp; [Repository →](https://github.com/SalvatoreGiugliano98/FaceVerification)
+</p>
 
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/AR_Foundation-000000?style=flat-square&logo=apple&logoColor=white" alt="AR Foundation">
+</p>
 
-<details>
-<summary><strong>🚗 DriveAcademyVR — VR Driving School Simulator</strong></summary>
-<br>
-
-A driving-school simulator for Meta Quest 3 with an interactive cockpit (wheel, automatic gearbox, indicators, handbrake, seatbelt), diegetic dashboard UI, realistic vehicle physics, and an urban grid populated with traffic and pedestrians. Provides real-time visual, audio and haptic feedback on driving mistakes.
-
-`Unity` `C#` `Meta Quest 3`
-&nbsp;·&nbsp; [Play on itch.io →](https://frads01.itch.io/drive-academy)
-&nbsp;·&nbsp; [Repository →](https://github.com/SalvatoreGiugliano98/DriveAcademyVR)
-
-</details>
-
-<details>
-<summary><strong>🎵 Music Denoising Without Clean Training Data</strong></summary>
-<br>
-
-Deep-learning audio denoising pipeline using a 20-layer Deep Complex U-Net (DCUNet-20), trained with the Noise2Noise paradigm on pairs of noisy signals only — no clean reference audio required. Operates directly on complex STFT spectrograms with complex convolutions, complex batch norm and Rayleigh weight initialization. Achieved a **+7.54 dB average SNR improvement** over speech-denoising baselines.
-
-`Python` `PyTorch` `DCUNet`
-&nbsp;·&nbsp; [Repository →](https://github.com/Frads01/mlvm-noise-remover)
-
-</details>
-
-<details>
-<summary><strong>🛶 Canoe Slalom — Video Performance Analysis</strong></summary>
-<br>
-
-Computer vision pipeline that tracks the canoe and detects slalom gates in dynamic video footage, handling water reflections and camera motion. Includes gate detection/segmentation, athlete and boat tracking, and automated scoring of touched or missed gates.
-
-`Python` `OpenCV`
-&nbsp;·&nbsp; [Repository →](https://github.com/Frads01/ipcv-canoa)
-
-</details>
-
-<details>
-<summary><strong>🏛️ My Museum Adventure — Gamified Museum Guide</strong></summary>
-<br>
-
-Android app that turns museum visits into a game: users pick a narrative theme (Adventure, Fantasy, Sci-Fi) and solve puzzles to find artworks, earning medals along the way. Features camera-based artwork recognition, crowdsourced interactive maps and multilingual audio guides.
-
-`Kotlin` `Jetpack Compose` `Room` `CameraX`
-&nbsp;·&nbsp; [Repository →](https://github.com/SalvatoreGiugliano98/my-museum-adventure-main)
-
-</details>
-
-<details>
-<summary><strong>🖥️ Computer Graphics — 3D Modeling & Interactive Rendering</strong></summary>
-<br>
-
-Real-time interactive 3D application built with low-level graphics libraries, paired with a physically-based 3D scene modeled in Blender. Features free camera navigation, geometric transformations, scene graph management, dynamic lighting, texture mapping and custom shaders.
-
-`C++` `OpenGL` `Blender`
-&nbsp;·&nbsp; [Repository →](https://github.com/SalvatoreGiugliano98/Computer-Graphics)
-
-</details>
-
-<details>
-<summary><strong>🖥️ Cross-Platform Screen Casting</strong></summary>
-<br>
-
-Multi-platform screen-sharing tool (Windows / macOS / Linux) over IPv4 multicast, with a lightweight `egui` interface. The sender supports pausing, blanking the screen, live annotations, area selection and hotkeys; the receiver can join sessions and record the stream via `ffmpeg`.
-
-`Rust` `egui` `FFmpeg`
-&nbsp;·&nbsp; [Repository →](https://github.com/Frads01/pds-screencast)
-
-</details>
-
-<details>
-<summary><strong>📚 TaskLass — Task Management Platform for Teachers & Students</strong></summary>
-<br>
-
-Full-stack web app for managing school assignments, with separate dashboards for teachers (create tasks, assign groups, grade responses) and students (view tasks, submit answers, track weighted-average performance). REST API with session-based auth and a relational schema with a many-to-many task/student relationship.
-
-`React` `Node.js` `Express`
-&nbsp;·&nbsp; [Repository →](https://github.com/Frads01/progetto-webapp1)
-
-</details>
+This project evaluates two facial verification methods built into an iOS application using Unity, C#, and AR Foundation: a 3D Geometric Approach and a 2D Neural Approach. The 3D approach captures TrueDepth point clouds via ARKit to measure normalized Euclidean distances across 17 anatomical landmarks (from 1,220 tracked points). The 2D approach uses ArcFace (ResNet-100 backbone) on Unity's Barracuda engine to compare 512-dimensional embeddings from RGB images using cosine similarity. The application features real-time face detection, a 3D facial viewer, live dual-pipeline testing, biometric measurement logging, and CSV export. Experimental results across 100+ tests showed the 3D method achieved 97.12% overall accuracy and 100% recall, whereas the ArcFace model achieved 100% precision.
 
 <br>
+
+### 🚗 [DriveAcademyVR — VR Driving School Simulator](https://github.com/SalvatoreGiugliano98/DriveAcademyVR)
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=DriveAcademyVR+Preview" alt="DriveAcademyVR Preview" width="100%">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Meta_Quest_3-0081FB?style=flat-square&logo=meta&logoColor=white" alt="Meta Quest 3">
+</p>
+
+Drive Academy VR is a virtual reality driving school simulator developed for the Meta Quest 3 headset. It provides an immersive, risk-free environment for users to practice driving, learn traffic rules, and receive real-time vocal guidance from a virtual instructor. Built with realistic vehicle physics, the system features a fully interactive cockpit where users manually operate controls such as the steering wheel, gear shift, turn signals, handbrake, and seatbelt, backed by a diegetic UI integrated into the dashboard. Operating within a grid-based city filled with traffic and pedestrians, the application tracks performance, provides immediate visual, auditory, and haptic feedback on infractions, and includes an introductory tutorial module.
+
+<br>
+
+### 🎵 [Song Noise Reduction Without Clean Training Data](https://github.com/Frads01/mlvm-noise-remover)
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Song+Noise+Reduction+Preview" alt="Song Noise Reduction Preview" width="100%">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+</p>
+
+In this project, a deep learning-based audio denoising pipeline was developed using a 20-layer Deep Complex U-Net (DCUNet-20) architecture to perform music denoising without requiring clean training data. Adopting the Noise2Noise paradigm, the network was trained exclusively on pairs of noisy audio signals generated by combining tracks from the MUSDB18 dataset with environmental and gaussian sound events from UrbanSound8K. The implementation operates directly on complex-valued Short-Time Fourier Transform (STFT) spectrograms to preserve both magnitude and phase information. Key technical highlights include complex convolutions, complex batch normalization, complex weight initialization based on Rayleigh distribution, and gradient optimization using a weighted Signal-to-Distortion Ratio (WSDR) loss. The final optimized system achieved an average Signal-to-Noise Ratio (SNR) improvement of +7.54 dB, outperforming baseline speech-oriented models on musical signals.
+
+<br>
+
+### 🛶 [Canoa Slalom — Video Performance Analysis](https://github.com/Frads01/ipcv-canoa)
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Canoa+Slalom+Preview" alt="Canoa Slalom Preview" width="100%">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+</p>
+
+This project was developed for the Image Processing and Computer Vision course at Politecnico di Torino to analyze Canoe Slalom performances. Built using Python and OpenCV, the system applies computer vision techniques to track the canoe and detect slalom gates in dynamic video streams, addressing challenges like water reflections and camera movement. Its key features include gate detection and segmentation, athlete and boat tracking, automated evaluation of gate touches or missed gates, and optimized frame processing. By leveraging techniques like morphological operations, contour detection, and optical flow, the project applies image processing theory to real-world sports analytics.
+
+<br>
+
+### 🏛️ [My Museum Adventure — Gamified Museum Guide](https://github.com/SalvatoreGiugliano98/my-museum-adventure-main)
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=My+Museum+Adventure+Preview" alt="My Museum Adventure Preview" width="100%">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose">
+</p>
+
+Developed for the Human-Computer Interaction course at Politecnico di Torino, My Museum Adventure is an Android application designed to gamify museum visits through theme-based interactive quests. Users select narrative paths (e.g., Adventure, Fantasy, Sci-fi) and solve riddles to discover artworks, earning medals and achievements along the way. Key features include camera-based artwork scanning via external image recognition APIs to verify answers, crowdsourced interactive maps for navigation, and detailed descriptions with multilingual audio guides. Technically, the app is built with Kotlin and Jetpack Compose, integrating Room for local offline storage, CameraX, OkHttp for API calls, and Jetpack Navigation.
+
+<br>
+
+### 🖥️ [Computer Graphics: 3D Modeling and Interactive Graphics Application](https://github.com/SalvatoreGiugliano98/Computer-Graphics)
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Computer+Graphics+Preview" alt="Computer Graphics Preview" width="100%">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+</p>
+
+This project was developed for a Computer Graphics course to implement the core principles of 3D rendering, modeling, and interactive visual computing. It consists of a real-time, interactive 3D application built with low-level graphics libraries like OpenGL, along with a 3D scene modeled in Blender using physics techniques. The application features a navigable 3D environment with camera controls, geometric transformations, scene graph management, dynamic lighting (Phong/Blinn-Phong), texture mapping, and custom shaders, bridging mathematical concepts with practical graphics programming.
+
+<br>
+
+### 🖥️ [Multi-Platform Screen-Casting](https://github.com/Frads01/pds-screencast)
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Multi-Platform+Screen-Casting+Preview" alt="Multi-Platform Screen-Casting Preview" width="100%">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
+</p>
+
+Developed for the System Programming course at Politecnico di Torino, this cross-platform PC application written in Rust enables real-time screen sharing on Windows, macOS, and Linux using IPv4 multicast. Built with an intuitive egui graphical interface, it supports two main roles:
+- **Sender:** Configures IP/port and monitor selection, with real-time controls to pause sharing, send a blank white screen, draw annotations (rectangles, arrows), share a specific screen region, or stop the stream (supported by hotkeys like Ctrl+P, Ctrl+B, Ctrl+D, Ctrl+S, Ctrl+Q). Includes fallback handling if a monitor disconnects.
+- **Receiver:** Connects via IPv4 address and port, featuring session exit options and built-in screen recording powered by ffmpeg (with automatic download handling if not pre-installed).
+
+<br>
+
+### 📚 [TaskLass: Full-Stack Web Platform for Managing and Grading School Assignments](https://github.com/Frads01/progetto-webapp1)
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=TaskLass+Preview" alt="TaskLass Preview" width="100%">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+</p>
+
+TaskLass is a full-stack web app developed for the Web Applications 1 exam, designed to digitize the assignment, submission, and grading of coursework. The application supports two distinct user roles: teachers, who can create assignments for specific student groups and grade submitted work, and students, who can view assignments, submit responses, and track their grade point average calculated server-side. The architecture features a reactive frontend built with React and React Router, utilizing modular components for separate dashboards, paired with a Node.js/Express backend that exposes REST APIs with session-based authentication and structured HTTP error handling. Data is stored in a relational database configured with many-to-many relationships. Key skills gained during development include relational schema modeling, designing authenticated REST APIs, managing client concurrency, and structuring a component-based user interface.
 
 <div align="center">
 
-*Always happy to talk about graphics, XR or anything computer vision related — feel free to reach out.*
+> *Always happy to talk about graphics, XR or anything computer vision related — feel free to reach out.* 🤗
 
 </div>
