@@ -67,11 +67,6 @@ Currently completing a thesis on evaluating cognitive states in XR environments 
 
 ### 🧑‍🤝‍🧑 [Facial Verification — Geometric Landmarks vs. Neural Embeddings](https://github.com/SalvatoreGiugliano98/FaceVerification)
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Facial+Verification+Preview" alt="Facial Verification Preview" width="100%">
-
-</p>
-
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
@@ -80,6 +75,10 @@ Currently completing a thesis on evaluating cognitive states in XR environments 
 
 This project evaluates two facial verification methods built into an iOS application using Unity, C#, and AR Foundation: a 3D Geometric Approach and a 2D Neural Approach. The 3D approach captures TrueDepth point clouds via ARKit to measure normalized Euclidean distances across 17 anatomical landmarks (from 1,220 tracked points). The 2D approach uses ArcFace (ResNet-100 backbone) on Unity's Barracuda engine to compare 512-dimensional embeddings from RGB images using cosine similarity. The application features real-time face detection, a 3D facial viewer, live dual-pipeline testing, biometric measurement logging, and CSV export. Experimental results across 100+ tests showed the 3D method achieved 97.12% overall accuracy and 100% recall, whereas the ArcFace model achieved 100% precision.
 
+<p align="center">
+  <img src="https://github.com/Frads01/Frads01/blob/main/imgs/sg3d.bmp" alt="Facial Verification Preview" width="50%">
+</p>
+
 <br>
 
 <a id="driveacademyvr"></a>
@@ -87,7 +86,9 @@ This project evaluates two facial verification methods built into an iOS applica
 ### 🚗 [DriveAcademyVR — VR Driving School Simulator](https://github.com/SalvatoreGiugliano98/DriveAcademyVR)
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=DriveAcademyVR+Preview" alt="DriveAcademyVR Preview" width="100%">
+  <a href="https://www.youtube.com/watch?v=g6p-ZQi5erc">
+    <img src="https://github.com/Frads01/Frads01/blob/main/imgs/driveacademy.png" alt="DriveAcademyVR Video" width="50%">
+  </a>
 </p>
 
 <p>
@@ -97,6 +98,10 @@ This project evaluates two facial verification methods built into an iOS applica
 </p>
 
 Drive Academy VR is a virtual reality driving school simulator developed for the Meta Quest 3 headset. It provides an immersive, risk-free environment for users to practice driving, learn traffic rules, and receive real-time vocal guidance from a virtual instructor. Built with realistic vehicle physics, the system features a fully interactive cockpit where users manually operate controls such as the steering wheel, gear shift, turn signals, handbrake, and seatbelt, backed by a diegetic UI integrated into the dashboard. Operating within a grid-based city filled with traffic and pedestrians, the application tracks performance, provides immediate visual, auditory, and haptic feedback on infractions, and includes an introductory tutorial module.
+
+<p align="center">
+  <img src="https://github.com/Frads01/Frads01/blob/main/imgs/driveacademy_examp.png" alt="DriveAcademyVR Preview" width="50%">
+</p>
 
 <br>
 
