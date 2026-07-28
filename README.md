@@ -39,17 +39,6 @@ Currently completing a thesis on evaluating cognitive states in XR environments 
 
 <br>
 
-## 🎓 Education & Training
-
-### 🏛️ Master's Degree in Computer Engineering
-**Politecnico di Torino** · *10/2023 – Present*
-- **Specialization:** Computer Graphics & Multimedia
-- **Thesis:** *Cognitive state assessment in XR environments using active and passive BCIs*
-- **Core Areas:** Virtual & Augmented Reality, Computer Graphics, Computer Vision, 3D Modeling, Multimedia Systems, Human-Computer Interaction
-
-### 🏛️ Bachelor's Degree in Computer Engineering
-**Politecnico di Torino** · *09/2020 – 09/2023*
-
 <!-- 
   Per aggiungere più immagini, usa un blocco <p> con più tag <img> affiancati o impilati:
   <img src="URL_IMMAGINE_1" alt="Preview 1" width="48%">
