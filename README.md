@@ -1,36 +1,45 @@
 <h1 align="center">Welcome to Frads homepage! 👋</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,rust,c,cpp,java,js,ts,react" alt="My Skills" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Master's+Student+in+Computer+Engineering;Extended+%2F+Virtual+Reality+Enthusiast;Computer+Vision+%26+Applied+Machine+Learning;Always+happy+to+talk+about+graphics+%26+XR" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,blender,opencv,vscode,pycharm,rider,clion,intellij" alt="My Skills" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Frads01&label=Profile%20Views&color=4CAF50&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Frads01?label=Followers&style=flat-square&color=4CAF50" alt="GitHub Followers" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux" alt="My Skills" />
-  </a>
-</p>
-
-<p align="center">
-  <br>
   <a href="mailto:francescodisanto14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/francesco-di-santo-1b6ab7261/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Frads01/Frads01/blob/main/cv_eng.pdf"><img src="https://img.shields.io/badge/CV%20(English)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV English"></a>
   <a href="https://github.com/Frads01/Frads01/blob/main/cv_ita.pdf"><img src="https://img.shields.io/badge/CV%20(Italiano)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV Italian"></a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,rust,c,cpp,java,js,ts,react,unity" alt="My Skills" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,opencv,vscode,pycharm,rider,clion,idea,windows,linux" alt="My Skills" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#about">📖 About</a> •
+  <a href="#featured-projects">🚀 Projects</a>
+</p>
+
 <br>
+
+<a id="about"></a>
 
 ## ℹ️ About
 
-Master's student in Computer Engineering at **Politecnico di Torino**, specializing in Computer Graphics & Multimedia. I work at the intersection of **Extended Reality, 3D graphics and applied Machine Learning** — designing immersive environments and building the computer vision / ML pipelines that make them smarter.
+Master's student in Computer Engineering at **Politecnico di Torino**, specializing in Computer Graphics & Multimedia. My main interests are **Extended/Virtual Reality, 3D Graphics and Modeling, Computer Vision, Image Processing, Audio Elaboration and Machine Learning applied to these fields**.
 
 Currently completing a thesis on evaluating cognitive states in XR environments through active and passive brain-computer interfaces.
 
@@ -39,13 +48,22 @@ Currently completing a thesis on evaluating cognitive states in XR environments 
 
 <br>
 
-<!-- 
-  Per aggiungere più immagini, usa un blocco <p> con più tag <img> affiancati o impilati:
-  <img src="URL_IMMAGINE_1" alt="Preview 1" width="48%">
-  <img src="URL_IMMAGINE_2" alt="Preview 2" width="48%">
--->
+<a id="featured-projects"></a>
 
 ## ✏️ Featured Projects
+
+<p align="center">
+  <a href="#facial-verification">Facial Verification</a> •
+  <a href="#driveacademyvr">DriveAcademyVR</a> •
+  <a href="#noise-reduction">Noise Reduction</a> •
+  <a href="#canoa-slalom">Canoa Slalom</a> •
+  <a href="#museum-adventure">Museum Adventure</a> •
+  <a href="#computer-graphics">Computer Graphics</a> •
+  <a href="#screen-casting">Screen-Casting</a> •
+  <a href="#tasklass">TaskLass</a>
+</p>
+
+<a id="facial-verification"></a>
 
 ### 🧑‍🤝‍🧑 [Facial Verification — Geometric Landmarks vs. Neural Embeddings](https://github.com/SalvatoreGiugliano98/FaceVerification)
 
@@ -64,6 +82,8 @@ This project evaluates two facial verification methods built into an iOS applica
 
 <br>
 
+<a id="driveacademyvr"></a>
+
 ### 🚗 [DriveAcademyVR — VR Driving School Simulator](https://github.com/SalvatoreGiugliano98/DriveAcademyVR)
 
 <p align="center">
@@ -80,6 +100,8 @@ Drive Academy VR is a virtual reality driving school simulator developed for the
 
 <br>
 
+<a id="noise-reduction"></a>
+
 ### 🎵 [Song Noise Reduction Without Clean Training Data](https://github.com/Frads01/mlvm-noise-remover)
 
 <p align="center">
@@ -94,6 +116,8 @@ Drive Academy VR is a virtual reality driving school simulator developed for the
 In this project, a deep learning-based audio denoising pipeline was developed using a 20-layer Deep Complex U-Net (DCUNet-20) architecture to perform music denoising without requiring clean training data. Adopting the Noise2Noise paradigm, the network was trained exclusively on pairs of noisy audio signals generated by combining tracks from the MUSDB18 dataset with environmental and gaussian sound events from UrbanSound8K. The implementation operates directly on complex-valued Short-Time Fourier Transform (STFT) spectrograms to preserve both magnitude and phase information. Key technical highlights include complex convolutions, complex batch normalization, complex weight initialization based on Rayleigh distribution, and gradient optimization using a weighted Signal-to-Distortion Ratio (WSDR) loss. The final optimized system achieved an average Signal-to-Noise Ratio (SNR) improvement of +7.54 dB, outperforming baseline speech-oriented models on musical signals.
 
 <br>
+
+<a id="canoa-slalom"></a>
 
 ### 🛶 [Canoa Slalom — Video Performance Analysis](https://github.com/Frads01/ipcv-canoa)
 
@@ -110,6 +134,8 @@ This project was developed for the Image Processing and Computer Vision course a
 
 <br>
 
+<a id="museum-adventure"></a>
+
 ### 🏛️ [My Museum Adventure — Gamified Museum Guide](https://github.com/SalvatoreGiugliano98/my-museum-adventure-main)
 
 <p align="center">
@@ -124,6 +150,8 @@ This project was developed for the Image Processing and Computer Vision course a
 Developed for the Human-Computer Interaction course at Politecnico di Torino, My Museum Adventure is an Android application designed to gamify museum visits through theme-based interactive quests. Users select narrative paths (e.g., Adventure, Fantasy, Sci-fi) and solve riddles to discover artworks, earning medals and achievements along the way. Key features include camera-based artwork scanning via external image recognition APIs to verify answers, crowdsourced interactive maps for navigation, and detailed descriptions with multilingual audio guides. Technically, the app is built with Kotlin and Jetpack Compose, integrating Room for local offline storage, CameraX, OkHttp for API calls, and Jetpack Navigation.
 
 <br>
+
+<a id="computer-graphics"></a>
 
 ### 🖥️ [Computer Graphics: 3D Modeling and Interactive Graphics Application](https://github.com/SalvatoreGiugliano98/Computer-Graphics)
 
@@ -141,6 +169,8 @@ This project was developed for a Computer Graphics course to implement the core 
 
 <br>
 
+<a id="screen-casting"></a>
+
 ### 🖥️ [Multi-Platform Screen-Casting](https://github.com/Frads01/pds-screencast)
 
 <p align="center">
@@ -157,6 +187,8 @@ Developed for the System Programming course at Politecnico di Torino, this cross
 - **Receiver:** Connects via IPv4 address and port, featuring session exit options and built-in screen recording powered by ffmpeg (with automatic download handling if not pre-installed).
 
 <br>
+
+<a id="tasklass"></a>
 
 ### 📚 [TaskLass: Full-Stack Web Platform for Managing and Grading School Assignments](https://github.com/Frads01/progetto-webapp1)
 
@@ -177,3 +209,11 @@ TaskLass is a full-stack web app developed for the Web Applications 1 exam, desi
 > *Always happy to talk about graphics, XR or anything computer vision related — feel free to reach out.* 🤗
 
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square" alt="Made with love">
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/⬆%20Back%20to%20top-4CAF50?style=flat-square" alt="Back to top"></a>
+</p>
