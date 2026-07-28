@@ -28,7 +28,7 @@
 
 <br>
 
-## About
+## ℹ️ About
 
 Master's student in Computer Engineering at **Politecnico di Torino**, specializing in Computer Graphics & Multimedia. I work at the intersection of **Extended Reality, 3D graphics and applied Machine Learning** — designing immersive environments and building the computer vision / ML pipelines that make them smarter.
 
@@ -39,13 +39,24 @@ Currently completing a thesis on evaluating cognitive states in XR environments 
 
 <br>
 
+## 🎓 Education & Training
+
+### 🏛️ Master's Degree in Computer Engineering
+**Politecnico di Torino** · *10/2023 – Present*
+- **Specialization:** Computer Graphics & Multimedia
+- **Thesis:** *Cognitive state assessment in XR environments using active and passive BCIs*
+- **Core Areas:** Virtual & Augmented Reality, Computer Graphics, Computer Vision, 3D Modeling, Multimedia Systems, Human-Computer Interaction
+
+### 🏛️ Bachelor's Degree in Computer Engineering
+**Politecnico di Torino** · *09/2020 – 09/2023*
+
 <!-- 
   Per aggiungere più immagini, usa un blocco <p> con più tag <img> affiancati o impilati:
   <img src="URL_IMMAGINE_1" alt="Preview 1" width="48%">
   <img src="URL_IMMAGINE_2" alt="Preview 2" width="48%">
 -->
 
-## Featured Projects
+## ✏️ Featured Projects
 
 ### 🧑‍🤝‍🧑 [Facial Verification — Geometric Landmarks vs. Neural Embeddings](https://github.com/SalvatoreGiugliano98/FaceVerification)
 
