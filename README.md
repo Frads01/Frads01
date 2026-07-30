@@ -1,13 +1,15 @@
 <h1 align="center">Welcome to Frads homepage! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Master's+Student+in+Computer+Engineering;Extended+%2F+Virtual+Reality;Computer+Vision+%26+3D+Graphics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Master+Student+in+Computer+Engineering;Extended+%2F+Virtual+Reality;Computer+Vision+%26+3D+Graphics" alt="Typing SVG" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Frads01&label=Profile%20Views&color=4CAF50&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Frads01?label=Followers&style=flat-square&color=4CAF50" alt="GitHub Followers" />
 </p>
+-->
 
 <p align="center">
   <a href="mailto:francescodisanto14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -31,22 +33,22 @@
 > [!NOTE]
 > <i>The README for this profile is currently under construction. In the meantime, you can check out the projects I have contributed to below!</i>
 
-## Index
+## 📖 Index
 
-* [📖 About](#about)
-* [🚀 Projects](#featured-projects)
-  * [Facial Verification](#facial-verification)
-  * [DriveAcademyVR](#driveacademyvr)
-  * [Noise Reduction](#noise-reduction)
-  * [Canoa Slalom](#canoa-slalom)
-  * [Museum Adventure](#museum-adventure)
-  * [Computer Graphics](#computer-graphics)
-  * [Screen-Casting](#screen-casting)
-  * [TaskLass](#tasklass)
+* [ℹ️ About me!](#about)
+* [🚀 Featured Projects](#featured-projects)
+  * [👀 Facial Verification — Geometric Landmarks vs. Neural Embeddings](#facial-verification)
+  * [🚗 DriveAcademyVR — VR Driving School Simulator](#driveacademyvr)
+  * [🎵 Song Noise Reduction Without Clean Training Data](#noise-reduction)
+  * [📹 Canoa Slalom — Video Performance Analysis](#canoa-slalom)
+  * [🏛️ My Museum Adventure — Gamified Museum Guide](#museum-adventure)
+  * [🕹️ Computer Graphics: 3D Modeling and Interactive Graphics Application](#computer-graphics)
+  * [↔️ Multi-Platform Screen-Casting](#screen-casting)
+  * [📚 TaskLass: Full-Stack Web Platform for Managing and Grading School Assignments](#tasklass)
 
 <a id="about"></a>
 
-## 📖 About
+## ℹ️ About me!
 
 Master's student in Computer Engineering at **Politecnico di Torino**, specializing in Computer Graphics & Multimedia. My main interests are **Extended/Virtual Reality, 3D Graphics and Modeling, Computer Vision, Image Processing, Audio Elaboration and Machine Learning applied to these fields**.
 
@@ -54,7 +56,7 @@ Currently completing a thesis on evaluating cognitive states in XR environments 
 
 <a id="featured-projects"></a>
 
-## 🚀 Featured Projects
+## 🚀 Featured projects
 
 <!--
 <p align="center">
@@ -71,7 +73,7 @@ Currently completing a thesis on evaluating cognitive states in XR environments 
 
 <a id="facial-verification"></a>
 
-### 🧑‍🤝‍🧑 [Facial Verification — Geometric Landmarks vs. Neural Embeddings](https://github.com/SalvatoreGiugliano98/FaceVerification)
+### 👀 [Facial Verification — Geometric Landmarks vs. Neural Embeddings](https://github.com/SalvatoreGiugliano98/FaceVerification)
 
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
@@ -130,7 +132,7 @@ In this project, a deep learning-based audio denoising pipeline was developed us
 
 <a id="canoa-slalom"></a>
 
-### 🛶 [Canoa Slalom — Video Performance Analysis](https://github.com/Frads01/ipcv-canoa)
+### 📹 [Canoa Slalom — Video Performance Analysis](https://github.com/Frads01/ipcv-canoa)
 
 <p align="center">
   <img src="https://via.placeholder.com/800x400?text=Canoa+Slalom+Preview" alt="Canoa Slalom Preview" width="100%">
@@ -164,7 +166,7 @@ Developed for the Human-Computer Interaction course at Politecnico di Torino, My
 
 <a id="computer-graphics"></a>
 
-### 🖥️ [Computer Graphics: 3D Modeling and Interactive Graphics Application](https://github.com/SalvatoreGiugliano98/Computer-Graphics)
+### 🕹️ [Computer Graphics: 3D Modeling and Interactive Graphics Application](https://github.com/SalvatoreGiugliano98/Computer-Graphics)
 
 <p align="center">
   <img src="https://via.placeholder.com/800x400?text=Computer+Graphics+Preview" alt="Computer Graphics Preview" width="100%">
@@ -182,7 +184,7 @@ This project was developed for a Computer Graphics course to implement the core 
 
 <a id="screen-casting"></a>
 
-### 🖥️ [Multi-Platform Screen-Casting](https://github.com/Frads01/pds-screencast)
+### ↔️ [Multi-Platform Screen-Casting](https://github.com/Frads01/pds-screencast)
 
 <p align="center">
   <img src="https://via.placeholder.com/800x400?text=Multi-Platform+Screen-Casting+Preview" alt="Multi-Platform Screen-Casting Preview" width="100%">
