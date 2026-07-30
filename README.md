@@ -28,30 +28,35 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#about">📖 About</a> •
-  <a href="#featured-projects">🚀 Projects</a>
-</p>
+> [!NOTE]
+> <i>The README for this profile is currently under construction. In the meantime, you can check out the projects I have contributed to below!</i>
 
-<br>
+## Index
+
+* [📖 About](#about)
+* [🚀 Projects](#featured-projects)
+  * [Facial Verification](#facial-verification)
+  * [DriveAcademyVR](#driveacademyvr)
+  * [Noise Reduction](#noise-reduction)
+  * [Canoa Slalom](#canoa-slalom)
+  * [Museum Adventure](#museum-adventure)
+  * [Computer Graphics](#computer-graphics)
+  * [Screen-Casting](#screen-casting)
+  * [TaskLass](#tasklass)
 
 <a id="about"></a>
 
-## ℹ️ About
+## 📖 About
 
 Master's student in Computer Engineering at **Politecnico di Torino**, specializing in Computer Graphics & Multimedia. My main interests are **Extended/Virtual Reality, 3D Graphics and Modeling, Computer Vision, Image Processing, Audio Elaboration and Machine Learning applied to these fields**.
 
 Currently completing a thesis on evaluating cognitive states in XR environments through active and passive brain-computer interfaces.
 
-> [!NOTE]
-> The README for this profile is currently under construction. In the meantime, you can check out the projects I have contributed to below!
-
-<br>
-
 <a id="featured-projects"></a>
 
-## ✏️ Featured Projects
+## 🚀 Featured Projects
 
+<!--
 <p align="center">
   <a href="#facial-verification">Facial Verification</a> •
   <a href="#driveacademyvr">DriveAcademyVR</a> •
@@ -62,6 +67,7 @@ Currently completing a thesis on evaluating cognitive states in XR environments 
   <a href="#screen-casting">Screen-Casting</a> •
   <a href="#tasklass">TaskLass</a>
 </p>
+-->
 
 <a id="facial-verification"></a>
 
