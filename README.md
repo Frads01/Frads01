@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Frads homepage! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Master's+Student+in+Computer+Engineering;Extended+%2F+Virtual+Reality+Enthusiast;Computer+Vision+%26+Applied+Machine+Learning;Always+happy+to+talk+about+graphics+%26+XR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Master's+Student+in+Computer+Engineering;Extended+%2F+Virtual+Reality;Computer+Vision+%26+3D+Graphics" alt="Typing SVG" />
 </p>
 
 <p align="center">
