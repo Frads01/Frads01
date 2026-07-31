@@ -1,4 +1,4 @@
-<h1 align="center">Ciao mondo, sono Francesco! 👋</h1>
+<h1 align="center">Ciao Mondo, sono Francesco! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Studente+Magistrale+in+Ingegneria+Informatica;Realta%27+Estesa%2C+Aumentata+e+Virtuale;Computer+Vision+e+Grafica+3D" alt="Typing SVG" />
