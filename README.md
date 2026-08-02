@@ -129,23 +129,11 @@ In this project, a deep learning-based audio denoising pipeline was developed us
   <img src="imgs/dcunet20.png" alt="DriveAcademyVR Preview" width="100%">
 </p>
 
-<table>
-  <tr>
-    <td><video src="audio\sample_010_clean.mp4" controls></video></td>
-    <td><video src="audio\sample_010_noisy.mp4" controls></video></td>
-    <td><video src="audio\sample_010_denoised.mp4" controls></video></td>
-  </tr>
-</table>
-
 <br>
 
 <a id="canoa-slalom"></a>
 
 ### 📹 [Canoa Slalom — Video Performance Analysis](https://github.com/Frads01/ipcv-canoa)
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Canoa+Slalom+Preview" alt="Canoa Slalom Preview" width="100%">
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -154,15 +142,15 @@ In this project, a deep learning-based audio denoising pipeline was developed us
 
 This project was developed for the Image Processing and Computer Vision course at Politecnico di Torino to analyze Canoe Slalom performances. Built using Python and OpenCV, the system applies computer vision techniques to track the canoe and detect slalom gates in dynamic video streams, addressing challenges like water reflections and camera movement. Its key features include gate detection and segmentation, athlete and boat tracking, automated evaluation of gate touches or missed gates, and optimized frame processing. By leveraging techniques like morphological operations, contour detection, and optical flow, the project applies image processing theory to real-world sports analytics.
 
+<p align="center">
+  <img src="imgs/CanoaSlalom.png" alt="Canoa Slalom Preview" width="100%">
+</p>
+
 <br>
 
 <a id="museum-adventure"></a>
 
 ### 🏛️ [My Museum Adventure — Gamified Museum Guide](https://github.com/SalvatoreGiugliano98/my-museum-adventure-main)
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=My+Museum+Adventure+Preview" alt="My Museum Adventure Preview" width="100%">
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -171,15 +159,15 @@ This project was developed for the Image Processing and Computer Vision course a
 
 Developed for the Human-Computer Interaction course at Politecnico di Torino, My Museum Adventure is an Android application designed to gamify museum visits through theme-based interactive quests. Users select narrative paths (e.g., Adventure, Fantasy, Sci-fi) and solve riddles to discover artworks, earning medals and achievements along the way. Key features include camera-based artwork scanning via external image recognition APIs to verify answers, crowdsourced interactive maps for navigation, and detailed descriptions with multilingual audio guides. Technically, the app is built with Kotlin and Jetpack Compose, integrating Room for local offline storage, CameraX, OkHttp for API calls, and Jetpack Navigation.
 
+<p align="center">
+  <img src="imgs/MyMuseumAdventure.png" alt="Canoa Slalom Preview" width="100%">
+</p>
+
 <br>
 
 <a id="computer-graphics"></a>
 
 ### 🕹️ [Computer Graphics: 3D Modeling and Interactive Graphics Application](https://github.com/SalvatoreGiugliano98/Computer-Graphics)
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Computer+Graphics+Preview" alt="Computer Graphics Preview" width="100%">
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
@@ -189,15 +177,15 @@ Developed for the Human-Computer Interaction course at Politecnico di Torino, My
 
 This project was developed for a Computer Graphics course to implement the core principles of 3D rendering, modeling, and interactive visual computing. It consists of a real-time, interactive 3D application built with low-level graphics libraries like OpenGL, along with a 3D scene modeled in Blender using physics techniques. The application features a navigable 3D environment with camera controls, geometric transformations, scene graph management, dynamic lighting (Phong/Blinn-Phong), texture mapping, and custom shaders, bridging mathematical concepts with practical graphics programming.
 
+<p align="center">
+  <img src="imgs/ScenaCompleta.png" alt="Scene Preview" width="100%">
+</p>
+
 <br>
 
 <a id="screen-casting"></a>
 
 ### ↔️ [Multi-Platform Screen-Casting](https://github.com/Frads01/pds-screencast)
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Multi-Platform+Screen-Casting+Preview" alt="Multi-Platform Screen-Casting Preview" width="100%">
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
@@ -214,10 +202,6 @@ Developed for the System Programming course at Politecnico di Torino, this cross
 
 ### 📚 [TaskLass: Full-Stack Web Platform for Managing and Grading School Assignments](https://github.com/Frads01/progetto-webapp1)
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=TaskLass+Preview" alt="TaskLass Preview" width="100%">
-</p>
-
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -225,6 +209,10 @@ Developed for the System Programming course at Politecnico di Torino, this cross
 </p>
 
 TaskLass is a full-stack web app developed for the Web Applications 1 exam, designed to digitize the assignment, submission, and grading of coursework. The application supports two distinct user roles: teachers, who can create assignments for specific student groups and grade submitted work, and students, who can view assignments, submit responses, and track their grade point average calculated server-side. The architecture features a reactive frontend built with React and React Router, utilizing modular components for separate dashboards, paired with a Node.js/Express backend that exposes REST APIs with session-based authentication and structured HTTP error handling. Data is stored in a relational database configured with many-to-many relationships. Key skills gained during development include relational schema modeling, designing authenticated REST APIs, managing client concurrency, and structuring a component-based user interface.
+
+<p align="center">
+  <img src="imgs/screenshot-1751640190460.png" alt="TaskLass Preview" width="100%">
+</p>
 
 <div align="center">
 
