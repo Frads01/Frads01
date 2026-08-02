@@ -20,13 +20,6 @@
 
 </div>
 
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Frads01&label=Profile%20Views&color=4CAF50&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Frads01?label=Followers&style=flat-square&color=4CAF50" alt="GitHub Followers" />
-</p>
--->
-
 <br>
 
 > [!NOTE]
@@ -64,12 +57,12 @@ My main interests and focus areas:
 ---
 
 <a id="facial-verification"></a>
-### 👀 [Facial Verification — Geometric Landmarks vs. Neural Embeddings](https://github.com/SalvatoreGiugliano98/FaceVerification)
+### 👀 Facial Verification — Geometric Landmarks vs. Neural Embeddings <a href="https://github.com/SalvatoreGiugliano98/FaceVerification"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
 
 <p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/AR_Foundation-000000?style=flat-square&logo=apple&logoColor=white" alt="AR Foundation">
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/AR_Foundation-000000?logo=apple&logoColor=white" alt="AR Foundation">
 </p>
 
 This project evaluates two facial verification methods built into an iOS application using Unity, C#, and AR Foundation: a **3D Geometric Approach** and a **2D Neural Approach**. 
@@ -86,12 +79,12 @@ The application features real-time face detection, a 3D facial viewer, live dual
 ---
 
 <a id="driveacademyvr"></a>
-### 🚗 [DriveAcademyVR — VR Driving School Simulator](https://github.com/SalvatoreGiugliano98/DriveAcademyVR)
+### 🚗 DriveAcademyVR — VR Driving School Simulator <a href="https://github.com/SalvatoreGiugliano98/DriveAcademyVR"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a> <a href="https://frads01.itch.io/drive-academy"><img src="https://img.shields.io/badge/-FA5C5C?logo=itch.io&logoColor=white" alt="Itch.io"></a>
 
 <p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Meta_Quest_3-0081FB?style=flat-square&logo=meta&logoColor=white" alt="Meta Quest 3">
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Meta_Quest_3-0081FB?logo=meta&logoColor=white" alt="Meta Quest 3">
 </p>
 
 Drive Academy VR is a virtual reality driving school simulator developed for the **Meta Quest 3** headset. It provides an immersive, risk-free environment for users to practice driving, learn traffic rules, and receive real-time vocal guidance from a virtual instructor. 
@@ -106,11 +99,11 @@ Built with realistic vehicle physics, the system features a fully interactive co
 ---
 
 <a id="noise-reduction"></a>
-### 🎵 [Song Noise Reduction Without Clean Training Data](https://github.com/Frads01/mlvm-noise-remover)
+### 🎵 Song Noise Reduction Without Clean Training Data <a href="https://github.com/Frads01/mlvm-noise-remover"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
 </p>
 
 A deep learning audio denoising pipeline built using a 20-layer Deep Complex U-Net (**DCUNet-20**) architecture to perform music denoising without requiring clean training data. 
@@ -127,11 +120,11 @@ Adopting the **Noise2Noise** paradigm, the network was trained exclusively on pa
 ---
 
 <a id="canoa-slalom"></a>
-### 📹 [Canoa Slalom — Video Performance Analysis](https://github.com/Frads01/ipcv-canoa)
+### 📹 Canoa Slalom — Video Performance Analysis <a href="https://github.com/Frads01/ipcv-canoa"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
 </p>
 
 Developed for the Image Processing and Computer Vision course at Politecnico di Torino to analyze Canoe Slalom performances. Built using Python and OpenCV, the system applies computer vision techniques to track the canoe and detect slalom gates in dynamic video streams under water reflections and camera movement.
@@ -146,11 +139,11 @@ Developed for the Image Processing and Computer Vision course at Politecnico di 
 ---
 
 <a id="museum-adventure"></a>
-### 🏛️ [My Museum Adventure — Gamified Museum Guide](https://github.com/SalvatoreGiugliano98/my-museum-adventure-main)
+### 🏛️ My Museum Adventure — Gamified Museum Guide <a href="https://github.com/SalvatoreGiugliano98/my-museum-adventure-main"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
 
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white" alt="Jetpack Compose">
 </p>
 
 Developed for the Human-Computer Interaction course at Politecnico di Torino, **My Museum Adventure** is an Android app designed to gamify museum visits through theme-based interactive quests. 
@@ -167,12 +160,12 @@ Users choose narrative paths (Adventure, Fantasy, Sci-Fi) and solve riddles to d
 ---
 
 <a id="computer-graphics"></a>
-### 🕹️ [Computer Graphics: 3D Modeling and Interactive Graphics Application](https://github.com/SalvatoreGiugliano98/Computer-Graphics)
+### 🕹️ Computer Graphics: 3D Modeling and Interactive Graphics Application <a href="https://github.com/SalvatoreGiugliano98/Computer-Graphics"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.youtube.com/watch?v=jf31dyR1mW0"><img src="https://img.shields.io/badge/-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a>
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL">
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white" alt="OpenGL">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=white" alt="Blender">
 </p>
 
 Created for the Computer Graphics course, this project implements core principles of 3D rendering, modeling, and interactive visual computing. 
@@ -189,12 +182,12 @@ It consists of a real-time game application built with OpenGL along with a reali
 ---
 
 <a id="tasklass"></a>
-### 📚 [TaskLass: Full-Stack Web Platform for Managing and Grading School Assignments](https://github.com/Frads01/progetto-webapp1)
+### 📚 TaskLass: Full-Stack Web Platform for Managing and Grading School Assignments <a href="https://github.com/Frads01/progetto-webapp1"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
 </p>
 
 TaskLass is a full-stack web platform developed for Web Applications 1, designed to digitize assignment creation, submission, and grading.
@@ -210,11 +203,11 @@ TaskLass is a full-stack web platform developed for Web Applications 1, designed
 ---
 
 <a id="screen-casting"></a>
-### ↔️ [Multi-Platform Screen-Casting](https://github.com/Frads01/pds-screencast)
+### ↔️ Multi-Platform Screen-Casting <a href="https://github.com/Frads01/pds-screencast"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white" alt="FFmpeg">
 </p>
 
 Developed for the System Programming course at Politecnico di Torino, this cross-platform PC application in Rust enables low-latency real-time screen sharing on Windows, macOS, and Linux using IPv4 multicast with an intuitive `egui` GUI.
@@ -225,12 +218,12 @@ Developed for the System Programming course at Politecnico di Torino, this cross
 ---
 
 <a id="quoridor"></a>
-### 🧱 [Quoridor — Embedded Board Game](https://github.com/Frads01/ase-quoridor)
+### 🧱 Quoridor — Embedded Board Game <a href="https://github.com/Frads01/ase-quoridor"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
 
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Assembly-654FF0?style=flat-square" alt="Assembly">
-  <img src="https://img.shields.io/badge/ARM_Cortex--M3-00979D?style=flat-square&logo=arm&logoColor=white" alt="ARM Cortex-M3">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Assembly-654FF0" alt="Assembly">
+  <img src="https://img.shields.io/badge/ARM_Cortex--M3-00979D?logo=arm&logoColor=white" alt="ARM Cortex-M3">
 </p>
 
 Quoridor is a from-scratch embedded implementation of the classic board game, developed for the Computer Systems Architecture course at Politecnico di Torino on an ARM Cortex-M3 platform (Keil µVision), programmed in C with critical routines in Assembly.
@@ -238,12 +231,7 @@ Quoridor is a from-scratch embedded implementation of the classic board game, de
 - **Gameplay & Logic:** The 13×13 board is modeled as a matrix alternating player and wall cells, with a recursive DFS-based algorithm ensuring no wall placement can ever fully trap an opponent.
 - **Hardware & Peripherals:** GLCD display and touch panel for rendering, joystick and buttons (via RIT-based polling/debouncing) for input, and multiple hardware timers to manage the 20-second move clock and on-screen messages.
 - **NPC & Multiplayer:** A single-board mode features an NPC opponent that pathfinds with a Dijkstra-based algorithm, while a two-board mode enables head-to-head play over CAN bus, synchronized through a handshake protocol.
-  
-<!--
-<p align="center">
-   inserisci qui uno screenshot/foto del setup, es. imgs/quoridor.png 
-</p>
--->
+
 ---
 
 <div align="center">
@@ -257,6 +245,5 @@ Quoridor is a from-scratch embedded implementation of the classic board game, de
   &nbsp;&nbsp;
   <a href="#top"><img src="https://img.shields.io/badge/⬆%20Back%20to%20top-4CAF50?style=flat-square" alt="Back to top"></a>
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=100&section=footer" width="100%"/>
 </div>
