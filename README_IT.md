@@ -1,69 +1,70 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=180&section=header&text=Ciao%20Mondo,%20sono%20Francesco!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Studente+Magistrale+in+Ingegneria+Informatica;Realta%27+Estesa%2C+Aumentata+e+Virtuale;Computer+Vision+e+Grafica+3D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Studente+Magistrale+in+Ingegneria+Informatica;Realt%C3%A0+Estesa,+Aumentata+%26+Virtuale;Computer+Vision+%26+Grafica+3D" alt="Typing SVG" />
 
 <a href="mailto:francescodisanto14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/francesco-di-santo-1b6ab7261/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/Frads01/Frads01/blob/main/cv_eng.pdf"><img src="https://img.shields.io/badge/CV%20(Inglese)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV Inglese"></a>
-<a href="https://github.com/Frads01/Frads01/blob/main/cv_ita.pdf"><img src="https://img.shields.io/badge/CV%20(Italiano)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV Italiano"></a>
+<a href="https://github.com/Frads01/Frads01/blob/main/cv_eng.pdf"><img src="https://img.shields.io/badge/CV%20(Inglese)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV English"></a>
+<a href="https://github.com/Frads01/Frads01/blob/main/cv_ita.pdf"><img src="https://img.shields.io/badge/CV%20(Italiano)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV Italian"></a>
 
 <br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cs,rust,c,cpp,java,js,ts,react" alt="Le mie competenze" />
+  <img src="https://skillicons.dev/icons?i=python,cs,rust,c,cpp,java,js,ts,react" alt="My Skills" />
 </a>
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=unity,blender,opencv,vscode,pycharm,rider,clion,idea,windows,linux" alt="Le mie competenze" />
+  <img src="https://skillicons.dev/icons?i=unity,blender,opencv,vscode,pycharm,rider,clion,idea,windows,linux" alt="My Skills" />
 </a>
 
 </div>
 
 <!--
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Frads01&label=Visualizzazioni%20Profilo&color=4CAF50&style=flat-square" alt="Visualizzazioni Profilo" />
-  <img src="https://img.shields.io/github/followers/Frads01?label=Follower&style=flat-square&color=4CAF50" alt="GitHub Follower" />
+  <img src="https://komarev.com/ghpvc/?username=Frads01&label=Profile%20Views&color=4CAF50&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Frads01?label=Followers&style=flat-square&color=4CAF50" alt="GitHub Followers" />
 </p>
 -->
 
 <br>
 
 > [!NOTE]
-> <i>Il README per questo profilo è attualmente in fase di sviluppo. Nel frattempo, puoi dare un'occhiata ai progetti a cui ho contribuito qui sotto!</i>
+> <i>Il README di questo profilo è attualmente in costruzione. Nel frattempo, puoi dare un'occhiata ai progetti a cui ho contribuito qui sotto!</i>
 
 <div>
 
 ## ℹ️ Chi sono!
 
-Studente magistrale in Ingegneria Informatica presso il **Politecnico di Torino**, specializzato in **Grafica al Calcolatore e Multimedia**. 
+Studente magistrale in Ingegneria Informatica al **Politecnico di Torino**, specializzato in **Computer Graphics & Multimedia**.
 
-I miei principali interessi e settori di ricerca:
-- 🥽 **Realtà Estesa, Aumentata e Virtuale (XR/AR/VR)**
-- 🎨 **Grafica 3D e Modellazione**
-- 👁️ **Computer Vision ed Elaborazione delle Immagini**
-- 🎵 **Elaborazione Audio e dei Segnali**
-- 🤖 **Machine Learning applicato a Visione e Multimedia**
+I miei principali interessi e aree di focus:
+- 🥽 **Realtà Estesa, Aumentata & Virtuale**
+- 🎨 **Grafica e Modellazione 3D**
+- 👁️ **Computer Vision & Elaborazione delle Immagini**
+- 🎵 **Elaborazione Audio & Segnali**
+- 🤖 **Machine Learning applicato a Vision e Multimedia**
 
-*Attualmente sto completando una tesi di laurea magistrale sulla valutazione degli stati cognitivi in ambienti XR attraverso interfacce cervello-computer (BCI) attive e passive.*
+*Attualmente sto completando una tesi magistrale sulla valutazione degli stati cognitivi in ambienti XR tramite interfacce cervello-computer attive e passive.*
 
 ---
 
 ## 🚀 Progetti in evidenza
 
-- [👀 Verifica Facciale — Landmark Geometrici vs. Neural Embeddings](#verifica-facciale)
-- [🚗 DriveAcademyVR — Simulatore VR per Scuola Guida](#driveacademyvr)
-- [🎵 Riduzione del Rumore nei Brani senza Dati di Addestramento Puliti](#riduzione-rumore)
-- [📹 Canoa Slalom — Analisi delle Prestazioni Video](#canoa-slalom)
+- [👀 Facial Verification — Landmark Geometrici vs. Neural Embeddings](#facial-verification)
+- [🚗 DriveAcademyVR — Simulatore di Scuola Guida VR](#driveacademyvr)
+- [🎵 Riduzione del Rumore in Brani Musicali Senza Dati di Training Puliti](#noise-reduction)
+- [📹 Canoa Slalom — Analisi Video delle Performance](#canoa-slalom)
 - [🏛️ My Museum Adventure — Guida Museale Gamificata](#museum-adventure)
-- [🕹️ Grafica al Calcolatore: Modellazione 3D e Applicazione Grafica Interattiva](#grafica-al-calcolatore)
+- [🕹️ Computer Graphics: Modellazione 3D & Applicazione Grafica Interattiva](#computer-graphics)
 - [↔️ Screen-Casting Multi-Piattaforma](#screen-casting)
-- [📚 TaskLass: Piattaforma Web Full-Stack per la Gestione e Valutazione dei Compiti Scolastici](#tasklass)
+- [📚 TaskLass: Piattaforma Web Full-Stack per la Gestione dei Compiti Scolastici](#tasklass)
+- [🧱 Quoridor — Gioco da Tavolo Embedded](#quoridor)
 
 ---
 
-<a id="verifica-facciale"></a>
-### 👀 [Verifica Facciale — Landmark Geometrici vs. Neural Embeddings](https://github.com/SalvatoreGiugliano98/FaceVerification)
+<a id="facial-verification"></a>
+### 👀 [Facial Verification — Landmark Geometrici vs. Neural Embeddings](https://github.com/SalvatoreGiugliano98/FaceVerification)
 
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
@@ -71,21 +72,21 @@ I miei principali interessi e settori di ricerca:
   <img src="https://img.shields.io/badge/AR_Foundation-000000?style=flat-square&logo=apple&logoColor=white" alt="AR Foundation">
 </p>
 
-Questo progetto valuta due metodi di verifica facciale integrati in un'applicazione iOS sviluppata con Unity, C# e AR Foundation: un **approccio geometrico 3D** e un **approccio neurale 2D**. 
+Questo progetto valuta due metodi di verifica facciale integrati in un'applicazione iOS realizzata con Unity, C# e AR Foundation: un **Approccio Geometrico 3D** e un **Approccio Neurale 2D**.
 
-- **Approccio 3D:** Acquisisce nuvole di punti TrueDepth tramite ARKit per misurare le distanze euclidee normalizzate tra 17 landmark anatomici (su 1.220 punti tracciati).
-- **Approccio 2D:** Utilizza ArcFace (backbone ResNet-100) sul motore Barracuda di Unity per confrontare embedding a 512 dimensioni da immagini RGB tramite la similarità del coseno.
+- **Approccio 3D:** Cattura point cloud TrueDepth tramite ARKit per misurare distanze Euclidee normalizzate su 17 landmark anatomici (a partire da 1.220 punti tracciati).
+- **Approccio 2D:** Utilizza ArcFace (backbone ResNet-100) sul motore Barracuda di Unity per confrontare embedding a 512 dimensioni ricavati da immagini RGB tramite similarità del coseno.
 
-L'applicazione offre rilevamento facciale in tempo reale, visualizzatore facciale 3D, test in parallelo delle due pipeline, registrazione delle misurazioni biometriche ed esportazione in CSV. I risultati sperimentali su oltre 100 test hanno mostrato che il metodo 3D ha raggiunto un'accuratezza complessiva del **97,12%** e un richiamo (recall) del **100%**, mentre il modello ArcFace ha ottenuto una precisione del **100%**.
+L'applicazione offre rilevamento facciale in tempo reale, un visualizzatore 3D del volto, test live su doppia pipeline, logging delle misurazioni biometriche ed esportazione CSV. I risultati sperimentali su oltre 100 test hanno mostrato che il metodo 3D ha raggiunto un'**accuratezza complessiva del 97,12%** e un **recall del 100%**, mentre il modello ArcFace ha ottenuto una **precisione del 100%**.
 
 <p align="center">
-  <img src="imgs/sg3d.bmp" alt="Anteprima Verifica Facciale" width="100%" style="border-radius: 8px;" />
+  <img src="imgs/sg3d.bmp" alt="Facial Verification Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
 ---
 
 <a id="driveacademyvr"></a>
-### 🚗 [DriveAcademyVR — Simulatore VR per Scuola Guida](https://github.com/SalvatoreGiugliano98/DriveAcademyVR)
+### 🚗 [DriveAcademyVR — Simulatore di Scuola Guida VR](https://github.com/SalvatoreGiugliano98/DriveAcademyVR)
 
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
@@ -93,53 +94,53 @@ L'applicazione offre rilevamento facciale in tempo reale, visualizzatore faccial
   <img src="https://img.shields.io/badge/Meta_Quest_3-0081FB?style=flat-square&logo=meta&logoColor=white" alt="Meta Quest 3">
 </p>
 
-Drive Academy VR è un simulatore di scuola guida in realtà virtuale sviluppato per il visore **Meta Quest 3**. Fornisce un ambiente immersivo e privo di rischi in cui gli utenti possono esercitarsi nella guida, imparare le regole del traffico e ricevere indicazioni vocali in tempo reale da un istruttore virtuale. 
+Drive Academy VR è un simulatore di scuola guida in realtà virtuale sviluppato per il visore **Meta Quest 3**. Offre un ambiente immersivo e privo di rischi in cui esercitarsi alla guida, imparare le regole del traffico e ricevere indicazioni vocali in tempo reale da un istruttore virtuale.
 
-Realizzato con una fisica dei veicoli realistica, il sistema presenta un abitacolo completamente interattivo dove gli utenti azionano manualmente comandi come volante, cambio, frecce, freno a mano e cinture di sicurezza, supportato da un'interfaccia utente diegetica integrata nel cruscotto. Inserita in una città a griglia popolata da traffico e pedoni, l'applicazione traccia le prestazioni, fornisce feedback visivi, uditivi e aptici immediati sulle infrazioni e include un modulo tutorial introduttivo.
+Costruito con una fisica veicolare realistica, il sistema presenta un abitacolo completamente interattivo in cui l'utente aziona manualmente i comandi (volante, cambio, frecce, freno a mano, cintura), supportato da una UI diegetica integrata nel cruscotto. Operando all'interno di una città a griglia popolata da traffico e pedoni, l'applicazione monitora le prestazioni, fornisce feedback visivo, sonoro e aptico immediato sulle infrazioni, e include un modulo tutorial introduttivo.
 
 <p align="center">
-  <img src="imgs/driveacademy_examp.png" alt="Anteprima DriveAcademyVR 1" width="49%" style="border-radius: 6px;" />
-  <img src="imgs/driveacademy_examp3.png" alt="Anteprima DriveAcademyVR 2" width="49%" style="border-radius: 6px;" />
+  <img src="imgs/driveacademy_examp.png" alt="DriveAcademyVR Preview 1" width="49%" style="border-radius: 6px;" />
+  <img src="imgs/driveacademy_examp3.png" alt="DriveAcademyVR Preview 2" width="49%" style="border-radius: 6px;" />
 </p>
 
 ---
 
-<a id="riduzione-rumore"></a>
-### 🎵 [Riduzione del Rumore nei Brani senza Dati di Addestramento Puliti](https://github.com/Frads01/mlvm-noise-remover)
+<a id="noise-reduction"></a>
+### 🎵 [Riduzione del Rumore in Brani Musicali Senza Dati di Training Puliti](https://github.com/Frads01/mlvm-noise-remover)
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
 </p>
 
-Una pipeline di denoiser audio basata su deep learning basata su un'architettura Deep Complex U-Net a 20 livelli (**DCUNet-20**) per rimuovere il rumore dalla musica senza richiedere dati di addestramento puliti. 
+Una pipeline di deep learning per il denoising audio, costruita con un'architettura Deep Complex U-Net a 20 livelli (**DCUNet-20**), per rimuovere il rumore da brani musicali senza richiedere dati di training puliti.
 
-Adottando il paradigma **Noise2Noise**, la rete è stata addestrata esclusivamente su coppie di segnali audio rumorosi generati combinando tracce del dataset MUSDB18 con eventi sonori ambientali e gaussiani presi da UrbanSound8K. L'implementazione opera direttamente su spettrogrammi STFT (Short-Time Fourier Transform) a valori complessi per preservare sia le informazioni di ampiezza che di fase. 
+Adottando il paradigma **Noise2Noise**, la rete è stata addestrata esclusivamente su coppie di segnali audio rumorosi, generati combinando tracce del dataset MUSDB18 con eventi sonori ambientali e gaussiani da UrbanSound8K. L'implementazione opera direttamente su spettrogrammi STFT (Short-Time Fourier Transform) a valori complessi, per preservare sia l'informazione di magnitudine sia quella di fase.
 
-- **Aspetti Tecnici Salienti:** Convoluzioni complesse, batch normalization complessa, inizializzazione complessa dei pesi basata sulla distribuzione di Rayleigh e ottimizzazione del gradiente tramite funzione di perdita WSDR (Weighted Signal-to-Distortion Ratio).
-- **Risultati:** Il sistema finale ottimizzato ha ottenuto un miglioramento medio del rapporto segnale-rumore (SNR) di **+7,54 dB**, superando i modelli baseline orientati al parlato sui segnali musicali.
+- **Aspetti tecnici principali:** Convoluzioni complesse, batch normalization complessa, inizializzazione dei pesi complessa basata sulla distribuzione di Rayleigh, e ottimizzazione tramite loss WSDR (Weighted Signal-to-Distortion Ratio).
+- **Risultati:** Miglioramento medio del rapporto segnale-rumore (SNR) di **+7,54 dB**, superando i modelli baseline orientati al parlato su segnali musicali.
 
 <p align="center">
-  <img src="imgs/dcunet20.png" alt="Spettrogramma Riduzione Rumore" width="100%" style="border-radius: 8px;" />
+  <img src="imgs/dcunet20.png" alt="Noise Reduction Spectrogram" width="100%" style="border-radius: 8px;" />
 </p>
 
 ---
 
 <a id="canoa-slalom"></a>
-### 📹 [Canoa Slalom — Analisi delle Prestazioni Video](https://github.com/Frads01/ipcv-canoa)
+### 📹 [Canoa Slalom — Analisi Video delle Performance](https://github.com/Frads01/ipcv-canoa)
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
 </p>
 
-Sviluppato per il corso di Elaborazione delle Immagini e Visione Artificiale presso il Politecnico di Torino per analizzare le prestazioni nella Canoa Slalom. Realizzato in Python e OpenCV, il sistema applica tecniche di computer vision per tracciare la canoa e rilevare le porte da slalom in flussi video dinamici, affrontando sfide quali riflessi dell'acqua e movimenti della telecamera.
+Sviluppato per il corso di Image Processing and Computer Vision al Politecnico di Torino per analizzare le performance nella Canoa Slalom. Realizzato con Python e OpenCV, il sistema applica tecniche di computer vision per tracciare la canoa e rilevare le porte di slalom in flussi video dinamici, gestendo criticità come i riflessi sull'acqua e il movimento della camera.
 
-- **Funzionalità Principali:** Rilevamento e segmentazione delle porte, tracciamento dell'atleta e dell'imbarcazione, valutazione automatizzata del tocco o del salto delle porte ed elaborazione ottimizzata dei fotogrammi.
-- **Tecniche Utilizzate:** Operazioni morfologiche, rilevamento dei contorni e flusso ottico per l'analisi sportiva reale.
+- **Funzionalità principali:** Rilevamento e segmentazione delle porte, tracking di atleta e imbarcazione, valutazione automatica di porte toccate o mancate, ed elaborazione ottimizzata dei fotogrammi.
+- **Tecniche impiegate:** Operazioni morfologiche, contour detection e optical flow per l'analisi sportiva nel mondo reale.
 
 <p align="center">
-  <img src="imgs/CanoaSlalom.png" alt="Anteprima Canoa Slalom" width="100%" style="border-radius: 8px;" />
+  <img src="imgs/CanoaSlalom.png" alt="Canoa Slalom Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
 ---
@@ -152,21 +153,21 @@ Sviluppato per il corso di Elaborazione delle Immagini e Visione Artificiale pre
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose">
 </p>
 
-Sviluppata per il corso di Interazione Uomo-Macchina presso il Politecnico di Torino, **My Museum Adventure** è un'applicazione Android progettata per rendere gamificata la visita ai musei attraverso sfide interattive a tema. 
+Sviluppata per il corso di Human-Computer Interaction al Politecnico di Torino, **My Museum Adventure** è un'app Android pensata per gamificare le visite museali attraverso quest interattive a tema.
 
-Gli utenti scelgono percorsi narrativi (Avventura, Fantasy, Fantascienza) e risolvono indovinelli per scoprire opere d'arte, guadagnando medaglie e obiettivi lungo il percorso. 
+Gli utenti scelgono percorsi narrativi (Avventura, Fantasy, Sci-Fi) e risolvono enigmi per scoprire le opere d'arte, guadagnando medaglie.
 
-- **Funzionalità:** Scansione delle opere tramite fotocamera gestita da API esterne di riconoscimento immagini per verificare le risposte, mappe interattive crowdsourced per la navigazione e descrizioni dettagliate con audioguide multilingua.
-- **Tech Stack:** Kotlin, Jetpack Compose, Room (archiviazione locale offline), CameraX, OkHttp e Jetpack Navigation.
+- **Funzionalità:** Scansione delle opere tramite fotocamera con API esterne di riconoscimento immagini, mappe interattive crowdsourced per la navigazione, e descrizioni dettagliate con audioguide multilingua.
+- **Stack tecnologico:** Kotlin, Jetpack Compose, Room (storage offline), CameraX, OkHttp e Jetpack Navigation.
 
 <p align="center">
-  <img src="imgs/MyMuseumAdventure.png" alt="Anteprima My Museum Adventure" width="100%" style="border-radius: 8px;" />
+  <img src="imgs/MyMuseumAdventure.png" alt="My Museum Adventure Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
 ---
 
-<a id="grafica-al-calcolatore"></a>
-### 🕹️ [Grafica al Calcolatore: Modellazione 3D e Applicazione Grafica Interattiva](https://github.com/SalvatoreGiugliano98/Computer-Graphics)
+<a id="computer-graphics"></a>
+### 🕹️ [Computer Graphics: Modellazione 3D e Applicazione Grafica Interattiva](https://github.com/SalvatoreGiugliano98/Computer-Graphics)
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
@@ -174,30 +175,16 @@ Gli utenti scelgono percorsi narrativi (Avventura, Fantasy, Fantascienza) e riso
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
 </p>
 
-Sviluppato per il corso di Grafica al Calcolatore per implementare i principi fondamentali del rendering 3D, della modellazione e del calcolo visivo interattivo. 
+Realizzato per il corso di Computer Graphics, questo progetto implementa i principi fondamentali del rendering 3D, della modellazione e del computing visivo interattivo.
 
-È composto da un'applicazione 3D interattiva in tempo reale creata con librerie grafiche a basso livello come OpenGL, affiancata da una scena 3D modellata su Blender mediante tecniche di fisica. 
+Consiste in un'applicazione di gioco in tempo reale costruita con OpenGL, affiancata da una scena 3D realistica modellata in Blender con tecniche di simulazione fisica.
 
-- **Funzionalità:** Ambiente 3D navigabile con controlli per la telecamera, trasformazioni geometriche, gestione dello grafo della scena, illuminazione dinamica (Phong/Blinn-Phong), mappatura delle texture e shader personalizzati.
+- **Funzionalità:** Trasformazioni geometriche, gestione dello scene graph, illuminazione dinamica (Phong/Blinn-Phong), texture mapping e shader personalizzati.
 
 <p align="center">
-  <img src="imgs/ScenaCompleta.png" alt="Anteprima Scena Grafica 3D" width="100%" style="border-radius: 8px;" />
+  <img src="imgs/ScenaCompleta.png" alt="3D Graphics Scene Preview" width="49%" style="border-radius: 8px;" />
+  <img src="imgs/compGraphicsGame.bmp" alt="Game Scene Preview" width="49%" style="border-radius: 8px;" />
 </p>
-
----
-
-<a id="screen-casting"></a>
-### ↔️ [Screen-Casting Multi-Piattaforma](https://github.com/Frads01/pds-screencast)
-
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
-</p>
-
-Sviluppata per il corso di Programmazione di Sistema presso il Politecnico di Torino, questa applicazione PC multipiattaforma scritta in Rust consente la condivisione dello schermo in tempo reale a bassa latenza su Windows, macOS e Linux tramite multicast IPv4 con un'interfaccia grafica `egui`.
-
-- **Mittente (Sender):** Configura IP/porta e selezione del monitor. Controlli in tempo reale per mettere in pausa la condivisione, inviare una schermata bianca vuota, disegnare annotazioni (rettangoli, frecce), condividere una regione specifica dello schermo o interrompere lo streaming (con scorciatoie come `Ctrl+P`, `Ctrl+B`, `Ctrl+D`, `Ctrl+S`, `Ctrl+Q`). Include la gestione del fallback se un monitor viene scollegato.
-- **Ricevitore (Receiver):** Si connette tramite multicast IPv4, con opzioni di uscita dalla sessione e registrazione dello schermo integrata tramite FFmpeg (con download automatico se non preinstallato).
 
 ---
 
@@ -210,28 +197,65 @@ Sviluppata per il corso di Programmazione di Sistema presso il Politecnico di To
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
 </p>
 
-TaskLass è un'applicazione web full-stack sviluppata per l'esame di Applicazioni Web 1, pensata per digitalizzare l'assegnazione, la consegna e la valutazione dei compiti a casa.
+TaskLass è una piattaforma web full-stack sviluppata per l'esame di Web Applications 1, pensata per digitalizzare la creazione, la consegna e la valutazione dei compiti.
 
-- **Ruoli Utente:** Gli insegnanti creano compiti per specifici gruppi di studenti e valutano i lavori consegnati; gli studenti inviano le soluzioni e monitorano la propria media voti calcolata lato server.
-- **Architettura:** Frontend reattivo in React con React Router affiancato da un backend Node.js/Express che espone API REST autenticate basate su sessione.
-- **Gestione Dati:** Schema di database relazionale con relazioni molti-a-molti, API REST e gestione della concorrenza.
+- **Ruoli utente:** I docenti creano compiti per specifici gruppi di studenti e valutano gli elaborati consegnati; gli studenti consegnano le risposte e monitorano la propria media calcolata lato server.
+- **Architettura:** Frontend reattivo realizzato con React e React Router, abbinato a un backend Node.js/Express che espone API REST autenticate con gestione delle sessioni.
+- **Gestione dati:** Schema di database relazionale con relazioni molti-a-molti, API REST e gestione della concorrenza.
 
 <p align="center">
-  <img src="imgs/screenshot-1751640190460.png" alt="Anteprima TaskLass Web App" width="100%" style="border-radius: 8px;" />
+  <img src="imgs/screenshot-1751640190460.png" alt="TaskLass Web App Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
 ---
 
+<a id="screen-casting"></a>
+### ↔️ [Screen-Casting Multi-Piattaforma](https://github.com/Frads01/pds-screencast)
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
+</p>
+
+Sviluppata per il corso di System Programming al Politecnico di Torino, questa applicazione desktop multipiattaforma in Rust consente la condivisione dello schermo in tempo reale e a bassa latenza su Windows, macOS e Linux tramite multicast IPv4, con un'interfaccia grafica realizzata con `egui`.
+
+- **Sender:** Configura IP/porta e selezione del monitor. Controlli in tempo reale per mettere in pausa la condivisione, inviare una schermata bianca, disegnare annotazioni (rettangoli, frecce), condividere una regione specifica dello schermo o interrompere lo stream tramite scorciatoie (`Ctrl+P`, `Ctrl+B`, `Ctrl+D`, `Ctrl+S`, `Ctrl+Q`). Include la gestione di fallback in caso di disconnessione di un monitor.
+- **Receiver:** Si connette tramite multicast IPv4, con opzioni di uscita dalla sessione e registrazione dello schermo integrata tramite FFmpeg (con download automatico se non è già installato).
+
+---
+
+<a id="quoridor"></a>
+### 🧱 [Quoridor — Gioco da Tavolo Embedded](https://github.com/Frads01/ase-quoridor)
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=flat-square" alt="Assembly">
+  <img src="https://img.shields.io/badge/ARM_Cortex--M3-00979D?style=flat-square&logo=arm&logoColor=white" alt="ARM Cortex-M3">
+</p>
+
+Quoridor è un'implementazione embedded realizzata da zero del celebre gioco da tavolo, sviluppata per il corso di Architetture dei Sistemi di Elaborazione al Politecnico di Torino su piattaforma ARM Cortex-M3 (Keil µVision), programmata in C con routine critiche in Assembly.
+
+- **Logica di gioco:** La board 13×13 è modellata come una matrice che alterna celle giocatore e celle muro, con un algoritmo ricorsivo basato su DFS che garantisce che nessun posizionamento di muro possa mai intrappolare completamente un avversario.
+- **Hardware & Periferiche:** Display GLCD e touch panel per il rendering, joystick e pulsanti (con polling e debouncing via RIT) per l'input, e diversi timer hardware per gestire il countdown di 20 secondi a mossa e i messaggi a schermo.
+- **NPC & Multiplayer:** Una modalità a singola scheda offre un avversario NPC che calcola il percorso tramite un algoritmo basato su Dijkstra, mentre una modalità a due schede consente di giocare uno contro l'altro tramite bus CAN, sincronizzato attraverso un protocollo di handshake.
+
+<!--
+<p align="center">
+   inserisci qui uno screenshot/foto del setup, es. imgs/quoridor.png 
+</p>
+-->
+---
+
 <div align="center">
-  
-> *Mi fa sempre piacere parlare di grafica, XR o di qualsiasi argomento legato alla computer vision — non esitare a contattarmi!* 🤗
+
+> *Sono sempre felice di parlare di grafica, XR o qualsiasi cosa legata alla computer vision — non esitare a contattarmi.* 🤗
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fatto%20con-%E2%9D%A4-red?style=flat-square" alt="Fatto con amore">
+  <img src="https://img.shields.io/badge/Fatto%20con-%E2%9D%A4-red?style=flat-square" alt="Made with love">
   &nbsp;&nbsp;
-  <a href="#top"><img src="https://img.shields.io/badge/⬆%20Torna%20su-4CAF50?style=flat-square" alt="Torna su"></a>
+  <a href="#top"><img src="https://img.shields.io/badge/⬆%20Torna%20su-4CAF50?style=flat-square" alt="Back to top"></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=100&section=footer" width="100%"/>
