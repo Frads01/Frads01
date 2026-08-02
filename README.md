@@ -187,21 +187,6 @@ It consists of a real-time game application built with OpenGL along with a reali
 
 ---
 
-<a id="screen-casting"></a>
-### ↔️ [Multi-Platform Screen-Casting](https://github.com/Frads01/pds-screencast)
-
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
-</p>
-
-Developed for the System Programming course at Politecnico di Torino, this cross-platform PC application in Rust enables low-latency real-time screen sharing on Windows, macOS, and Linux using IPv4 multicast with an intuitive `egui` GUI.
-
-- **Sender:** Configures IP/port and monitor selection. Real-time controls to pause sharing, send a blank white screen, draw annotations (rectangles, arrows), share specific regions, or stop stream with hotkeys (`Ctrl+P`, `Ctrl+B`, `Ctrl+D`, `Ctrl+S`, `Ctrl+Q`). Includes fallback handling if a monitor disconnects.
-- **Receiver:** Connects via IPv4 multicast, featuring session exit options and built-in screen recording powered by FFmpeg (with automatic download handling if not pre-installed).
-
----
-
 <a id="tasklass"></a>
 ### 📚 [TaskLass: Full-Stack Web Platform for Managing and Grading School Assignments](https://github.com/Frads01/progetto-webapp1)
 
@@ -221,6 +206,44 @@ TaskLass is a full-stack web platform developed for Web Applications 1, designed
   <img src="imgs/screenshot-1751640190460.png" alt="TaskLass Web App Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
+---
+
+<a id="screen-casting"></a>
+### ↔️ [Multi-Platform Screen-Casting](https://github.com/Frads01/pds-screencast)
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
+</p>
+
+Developed for the System Programming course at Politecnico di Torino, this cross-platform PC application in Rust enables low-latency real-time screen sharing on Windows, macOS, and Linux using IPv4 multicast with an intuitive `egui` GUI.
+
+- **Sender:** Configures IP/port and monitor selection. Real-time controls to pause sharing, send a blank white screen, draw annotations (rectangles, arrows), share specific regions, or stop stream with hotkeys (`Ctrl+P`, `Ctrl+B`, `Ctrl+D`, `Ctrl+S`, `Ctrl+Q`). Includes fallback handling if a monitor disconnects.
+- **Receiver:** Connects via IPv4 multicast, featuring session exit options and built-in screen recording powered by FFmpeg (with automatic download handling if not pre-installed).
+
+---
+
+<a id="quoridor"></a>
+
+### 🧱 [Quoridor — Embedded Board Game](https://github.com/Frads01/ase-quoridor)
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=flat-square" alt="Assembly">
+  <img src="https://img.shields.io/badge/ARM_Cortex--M3-00979D?style=flat-square&logo=arm&logoColor=white" alt="ARM Cortex-M3">
+</p>
+
+Quoridor is a from-scratch embedded implementation of the classic board game, developed for the Computer Systems Architecture course at Politecnico di Torino on an ARM Cortex-M3 platform (Keil µVision), programmed in C with critical routines in Assembly.
+
+- **Gameplay & Logic:** The 13×13 board is modeled as a matrix alternating player and wall cells, with a recursive DFS-based algorithm ensuring no wall placement can ever fully trap an opponent.
+- **Hardware & Peripherals:** GLCD display and touch panel for rendering, joystick and buttons (via RIT-based polling/debouncing) for input, and multiple hardware timers to manage the 20-second move clock and on-screen messages.
+- **NPC & Multiplayer:** A single-board mode features an NPC opponent that pathfinds with a Dijkstra-based algorithm, while a two-board mode enables head-to-head play over CAN bus, synchronized through a handshake protocol.
+  
+<!--
+<p align="center">
+   inserisci qui uno screenshot/foto del setup, es. imgs/quoridor.png 
+</p>
+-->
 ---
 
 <div align="center">
