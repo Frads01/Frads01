@@ -1,15 +1,7 @@
-<h1 align="center">Hello World, I'm Francesco! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Master+Student+in+Computer+Engineering;Extended,+Augmented+%26+Virtual+Reality;Computer+Vision+%26+3D+Graphics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Master+Student+in+Computer+Engineering;Extended%2C+Augmented+%26+Virtual+Reality;Computer+Vision+%26+3D+Graphics" alt="Typing SVG" />
 </p>
-
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Frads01&label=Profile%20Views&color=4CAF50&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Frads01?label=Followers&style=flat-square&color=4CAF50" alt="GitHub Followers" />
-</p>
--->
 
 <p align="center">
   <a href="mailto:francescodisanto14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -18,58 +10,58 @@
   <a href="https://github.com/Frads01/Frads01/blob/main/cv_ita.pdf"><img src="https://img.shields.io/badge/CV%20(Italiano)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV Italian"></a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,rust,c,cpp,java,js,ts,react" alt="My Skills" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,blender,opencv,vscode,pycharm,rider,clion,idea,windows,linux" alt="My Skills" />
-  </a>
-</p>
+## ℹ️ About Me
+
+Master's student in Computer Engineering at **Politecnico di Torino**, specializing in **Computer Graphics & Multimedia**. 
+
+My main interests and focus areas:
+- 🥽 **Extended, Augmented & Virtual Reality (XR/AR/VR)**
+- 🎨 **3D Graphics, Shaders & Modeling**
+- 👁️ **Computer Vision & Image Processing**
+- 🎵 **Audio Elaboration & Signal Processing**
+- 🤖 **Machine Learning & Deep Learning Applications**
+
+> 🔬 *Currently completing a Master's thesis on evaluating cognitive states in XR environments through active and passive brain-computer interfaces (BCIs).*
 
 > [!NOTE]
-> <i>The README for this profile is currently under construction. In the meantime, you can check out the projects I have contributed to below!</i>
+> *The README for this profile is currently under construction. In the meantime, feel free to explore my featured projects below!*
 
-## 📖 Index
+---
 
-* [ℹ️ About me!](#about)
-* [🚀 Featured Projects](#featured-projects)
-  * [👀 Facial Verification — Geometric Landmarks vs. Neural Embeddings](#facial-verification)
-  * [🚗 DriveAcademyVR — VR Driving School Simulator](#driveacademyvr)
-  * [🎵 Song Noise Reduction Without Clean Training Data](#noise-reduction)
-  * [📹 Canoa Slalom — Video Performance Analysis](#canoa-slalom)
-  * [🏛️ My Museum Adventure — Gamified Museum Guide](#museum-adventure)
-  * [🕹️ Computer Graphics: 3D Modeling and Interactive Graphics Application](#computer-graphics)
-  * [↔️ Multi-Platform Screen-Casting](#screen-casting)
-  * [📚 TaskLass: Full-Stack Web Platform for Managing and Grading School Assignments](#tasklass)
+## 🛠️ Tech Stack & Tools
 
-<a id="about"></a>
-
-## ℹ️ About me!
-
-Master's student in Computer Engineering at **Politecnico di Torino**, specializing in Computer Graphics & Multimedia. My main interests are **Extended/Virtual Reality, 3D Graphics and Modeling, Computer Vision, Image Processing, Audio Elaboration and Machine Learning applied to these fields**.
-
-Currently completing a thesis on evaluating cognitive states in XR environments through active and passive brain-computer interfaces.
-
-<a id="featured-projects"></a>
-
-## 🚀 Featured projects
-
-<!--
 <p align="center">
-  <a href="#facial-verification">Facial Verification</a> •
-  <a href="#driveacademyvr">DriveAcademyVR</a> •
-  <a href="#noise-reduction">Noise Reduction</a> •
-  <a href="#canoa-slalom">Canoa Slalom</a> •
-  <a href="#museum-adventure">Museum Adventure</a> •
-  <a href="#computer-graphics">Computer Graphics</a> •
-  <a href="#screen-casting">Screen-Casting</a> •
-  <a href="#tasklass">TaskLass</a>
+  <b>Languages & Frameworks</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,rust,c,cpp,java,js,ts,react" alt="Languages & Frameworks" />
+  </a>
 </p>
--->
+
+<p align="center">
+  <b>Engines, Graphics & Software Tools</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,blender,opencv,vscode,pycharm,rider,clion,idea,windows,linux" alt="Tools & Software" />
+  </a>
+</p>
+
+---
+
+## 📖 Table of Contents
+
+- [👀 Facial Verification — Geometric Landmarks vs. Neural Embeddings](#facial-verification)
+- [🚗 DriveAcademyVR — VR Driving School Simulator](#driveacademyvr)
+- [🎵 Song Noise Reduction Without Clean Training Data](#noise-reduction)
+- [📹 Canoa Slalom — Video Performance Analysis](#canoa-slalom)
+- [🏛️ My Museum Adventure — Gamified Museum Guide](#museum-adventure)
+- [🕹️ Computer Graphics: 3D Modeling & Interactive Graphics](#computer-graphics)
+- [↔️ Multi-Platform Screen-Casting](#screen-casting)
+- [📚 TaskLass: Full-Stack Web Platform for School Assignments](#tasklass)
+
+---
+
+## 🚀 Featured Projects
 
 <a id="facial-verification"></a>
 
@@ -81,13 +73,20 @@ Currently completing a thesis on evaluating cognitive states in XR environments 
   <img src="https://img.shields.io/badge/AR_Foundation-000000?style=flat-square&logo=apple&logoColor=white" alt="AR Foundation">
 </p>
 
-This project evaluates two facial verification methods built into an iOS application using Unity, C#, and AR Foundation: a 3D Geometric Approach and a 2D Neural Approach. The 3D approach captures TrueDepth point clouds via ARKit to measure normalized Euclidean distances across 17 anatomical landmarks (from 1,220 tracked points). The 2D approach uses ArcFace (ResNet-100 backbone) on Unity's Barracuda engine to compare 512-dimensional embeddings from RGB images using cosine similarity. The application features real-time face detection, a 3D facial viewer, live dual-pipeline testing, biometric measurement logging, and CSV export. Experimental results across 100+ tests showed the 3D method achieved 97.12% overall accuracy and 100% recall, whereas the ArcFace model achieved 100% precision.
+This project evaluates two facial verification methods built into an iOS application using Unity, C#, and AR Foundation: a **3D Geometric Approach** and a **2D Neural Approach**. 
+
+- **3D Approach:** Captures TrueDepth point clouds via ARKit to measure normalized Euclidean distances across 17 anatomical landmarks (from 1,220 tracked points).
+- **2D Approach:** Uses ArcFace (ResNet-100 backbone) on Unity's Barracuda engine to compare 512-dimensional embeddings from RGB images using cosine similarity.
+
+The application features real-time face detection, a 3D facial viewer, live dual-pipeline testing, biometric measurement logging, and CSV export. Experimental results across 100+ tests showed the 3D method achieved **97.12% overall accuracy** and **100% recall**, whereas the ArcFace model achieved **100% precision**.
 
 <p align="center">
-  <img src="imgs\sg3d.bmp" alt="Facial Verification Preview" width="100%">
+  <img src="imgs/sg3d.bmp" alt="Facial Verification Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
 <br>
+
+---
 
 <a id="driveacademyvr"></a>
 
@@ -99,20 +98,24 @@ This project evaluates two facial verification methods built into an iOS applica
   <img src="https://img.shields.io/badge/Meta_Quest_3-0081FB?style=flat-square&logo=meta&logoColor=white" alt="Meta Quest 3">
 </p>
 
+Drive Academy VR is a virtual reality driving school simulator developed for the **Meta Quest 3** headset. It provides an immersive, risk-free environment for users to practice driving, learn traffic rules, and receive real-time vocal guidance from a virtual instructor. 
+
+Built with realistic vehicle physics, the system features a fully interactive cockpit where users manually operate controls (steering wheel, gear shift, turn signals, handbrake, seatbelt), backed by a diegetic UI integrated into the dashboard. Operating within a grid-based city filled with traffic and pedestrians, the application tracks performance, provides immediate visual, auditory, and haptic feedback on infractions, and includes an introductory tutorial module.
+
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=g6p-ZQi5erc">
-    <img src="imgs\driveacademy.png" alt="DriveAcademyVR Video" width="100%">
+  <a href="https://www.youtube.com/watch?v=g6p-ZQi5erc" title="Watch Demo Video on YouTube">
+    <img src="imgs/driveacademy.png" alt="DriveAcademyVR Video Preview" width="100%" style="border-radius: 8px;" />
   </a>
 </p>
 
-Drive Academy VR is a virtual reality driving school simulator developed for the Meta Quest 3 headset. It provides an immersive, risk-free environment for users to practice driving, learn traffic rules, and receive real-time vocal guidance from a virtual instructor. Built with realistic vehicle physics, the system features a fully interactive cockpit where users manually operate controls such as the steering wheel, gear shift, turn signals, handbrake, and seatbelt, backed by a diegetic UI integrated into the dashboard. Operating within a grid-based city filled with traffic and pedestrians, the application tracks performance, provides immediate visual, auditory, and haptic feedback on infractions, and includes an introductory tutorial module.
-
 <p align="center">
-  <img src="imgs\driveacademy_examp.png" alt="DriveAcademyVR Preview" width="100%">
-  <img src="imgs\driveacademy_examp3.png" alt="DriveAcademyVR Preview" width="100%">
+  <img src="imgs/driveacademy_examp.png" alt="DriveAcademyVR Preview 1" width="49%" style="border-radius: 6px;" />
+  <img src="imgs/driveacademy_examp3.png" alt="DriveAcademyVR Preview 2" width="49%" style="border-radius: 6px;" />
 </p>
 
 <br>
+
+---
 
 <a id="noise-reduction"></a>
 
@@ -123,13 +126,20 @@ Drive Academy VR is a virtual reality driving school simulator developed for the
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
 </p>
 
-In this project, a deep learning-based audio denoising pipeline was developed using a 20-layer Deep Complex U-Net (DCUNet-20) architecture to perform music denoising without requiring clean training data. Adopting the Noise2Noise paradigm, the network was trained exclusively on pairs of noisy audio signals generated by combining tracks from the MUSDB18 dataset with environmental and gaussian sound events from UrbanSound8K. The implementation operates directly on complex-valued Short-Time Fourier Transform (STFT) spectrograms to preserve both magnitude and phase information. Key technical highlights include complex convolutions, complex batch normalization, complex weight initialization based on Rayleigh distribution, and gradient optimization using a weighted Signal-to-Distortion Ratio (WSDR) loss. The final optimized system achieved an average Signal-to-Noise Ratio (SNR) improvement of +7.54 dB, outperforming baseline speech-oriented models on musical signals.
+A deep learning audio denoising pipeline built using a 20-layer Deep Complex U-Net (**DCUNet-20**) architecture to perform music denoising without requiring clean training data. 
+
+Adopting the **Noise2Noise** paradigm, the network was trained exclusively on pairs of noisy audio signals generated by combining tracks from the MUSDB18 dataset with environmental and gaussian sound events from UrbanSound8K. The implementation operates directly on complex-valued Short-Time Fourier Transform (STFT) spectrograms to preserve magnitude and phase information. 
+
+- **Key Technical Highlights:** Complex convolutions, complex batch normalization, Rayleigh-distribution complex weight initialization, and gradient optimization via Weighted Signal-to-Distortion Ratio (WSDR) loss.
+- **Results:** Achieved an average Signal-to-Noise Ratio (SNR) improvement of **+7.54 dB**, outperforming baseline speech-oriented models on musical signals.
 
 <p align="center">
-  <img src="imgs/dcunet20.png" alt="DriveAcademyVR Preview" width="100%">
+  <img src="imgs/dcunet20.png" alt="Noise Reduction Spectrogram" width="100%" style="border-radius: 8px;" />
 </p>
 
 <br>
+
+---
 
 <a id="canoa-slalom"></a>
 
@@ -140,13 +150,18 @@ In this project, a deep learning-based audio denoising pipeline was developed us
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
 </p>
 
-This project was developed for the Image Processing and Computer Vision course at Politecnico di Torino to analyze Canoe Slalom performances. Built using Python and OpenCV, the system applies computer vision techniques to track the canoe and detect slalom gates in dynamic video streams, addressing challenges like water reflections and camera movement. Its key features include gate detection and segmentation, athlete and boat tracking, automated evaluation of gate touches or missed gates, and optimized frame processing. By leveraging techniques like morphological operations, contour detection, and optical flow, the project applies image processing theory to real-world sports analytics.
+Developed for the Image Processing and Computer Vision course at Politecnico di Torino to analyze Canoe Slalom performances. Built using Python and OpenCV, the system applies computer vision techniques to track the canoe and detect slalom gates in dynamic video streams under water reflections and camera movement.
+
+- **Key Features:** Gate detection & segmentation, athlete and boat tracking, automated evaluation of gate touches/misses, and optimized frame processing.
+- **Techniques Used:** Morphological operations, contour detection, and optical flow for real-world sports analytics.
 
 <p align="center">
-  <img src="imgs/CanoaSlalom.png" alt="Canoa Slalom Preview" width="100%">
+  <img src="imgs/CanoaSlalom.png" alt="Canoa Slalom Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
 <br>
+
+---
 
 <a id="museum-adventure"></a>
 
@@ -157,13 +172,20 @@ This project was developed for the Image Processing and Computer Vision course a
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose">
 </p>
 
-Developed for the Human-Computer Interaction course at Politecnico di Torino, My Museum Adventure is an Android application designed to gamify museum visits through theme-based interactive quests. Users select narrative paths (e.g., Adventure, Fantasy, Sci-fi) and solve riddles to discover artworks, earning medals and achievements along the way. Key features include camera-based artwork scanning via external image recognition APIs to verify answers, crowdsourced interactive maps for navigation, and detailed descriptions with multilingual audio guides. Technically, the app is built with Kotlin and Jetpack Compose, integrating Room for local offline storage, CameraX, OkHttp for API calls, and Jetpack Navigation.
+Developed for the Human-Computer Interaction course at Politecnico di Torino, **My Museum Adventure** is an Android app designed to gamify museum visits through theme-based interactive quests. 
+
+Users choose narrative paths (Adventure, Fantasy, Sci-Fi) and solve riddles to discover artworks while earning medals. 
+
+- **Features:** Camera-based artwork scanning via external image recognition APIs, crowdsourced interactive maps for navigation, and detailed descriptions with multilingual audio guides.
+- **Tech Stack:** Kotlin, Jetpack Compose, Room (offline storage), CameraX, OkHttp, and Jetpack Navigation.
 
 <p align="center">
-  <img src="imgs/MyMuseumAdventure.png" alt="Canoa Slalom Preview" width="100%">
+  <img src="imgs/MyMuseumAdventure.png" alt="My Museum Adventure Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
 <br>
+
+---
 
 <a id="computer-graphics"></a>
 
@@ -175,13 +197,19 @@ Developed for the Human-Computer Interaction course at Politecnico di Torino, My
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
 </p>
 
-This project was developed for a Computer Graphics course to implement the core principles of 3D rendering, modeling, and interactive visual computing. It consists of a real-time, interactive 3D application built with low-level graphics libraries like OpenGL, along with a 3D scene modeled in Blender using physics techniques. The application features a navigable 3D environment with camera controls, geometric transformations, scene graph management, dynamic lighting (Phong/Blinn-Phong), texture mapping, and custom shaders, bridging mathematical concepts with practical graphics programming.
+Created for the Computer Graphics course, this project implements core principles of 3D rendering, modeling, and interactive visual computing. 
+
+It consists of a real-time 3D application built with OpenGL along with a 3D scene modeled in Blender using physics simulation techniques. 
+
+- **Features:** Navigable 3D environment, camera controls, geometric transformations, scene graph management, dynamic lighting (Phong/Blinn-Phong), texture mapping, and custom shaders.
 
 <p align="center">
-  <img src="imgs/ScenaCompleta.png" alt="Scene Preview" width="100%">
+  <img src="imgs/ScenaCompleta.png" alt="3D Graphics Scene Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
 <br>
+
+---
 
 <a id="screen-casting"></a>
 
@@ -192,11 +220,14 @@ This project was developed for a Computer Graphics course to implement the core 
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
 </p>
 
-Developed for the System Programming course at Politecnico di Torino, this cross-platform PC application written in Rust enables real-time screen sharing on Windows, macOS, and Linux using IPv4 multicast. Built with an intuitive egui graphical interface, it supports two main roles:
-- **Sender:** Configures IP/port and monitor selection, with real-time controls to pause sharing, send a blank white screen, draw annotations (rectangles, arrows), share a specific screen region, or stop the stream (supported by hotkeys like Ctrl+P, Ctrl+B, Ctrl+D, Ctrl+S, Ctrl+Q). Includes fallback handling if a monitor disconnects.
-- **Receiver:** Connects via IPv4 address and port, featuring session exit options and built-in screen recording powered by ffmpeg (with automatic download handling if not pre-installed).
+Developed for the System Programming course at Politecnico di Torino, this cross-platform PC application in Rust enables low-latency real-time screen sharing on Windows, macOS, and Linux using IPv4 multicast with an intuitive `egui` GUI.
+
+- 📤 **Sender:** Configures IP/port and monitor selection. Real-time controls to pause sharing, send a blank white screen, draw annotations (rectangles, arrows), share specific regions, or stop stream with hotkeys (`Ctrl+P`, `Ctrl+B`, `Ctrl+D`, `Ctrl+S`, `Ctrl+Q`). Includes fallback handling if a monitor disconnects.
+- 📥 **Receiver:** Connects via IPv4 multicast, featuring session exit options and built-in screen recording powered by FFmpeg (with automatic download handling if not pre-installed).
 
 <br>
+
+---
 
 <a id="tasklass"></a>
 
@@ -208,22 +239,30 @@ Developed for the System Programming course at Politecnico di Torino, this cross
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
 </p>
 
-TaskLass is a full-stack web app developed for the Web Applications 1 exam, designed to digitize the assignment, submission, and grading of coursework. The application supports two distinct user roles: teachers, who can create assignments for specific student groups and grade submitted work, and students, who can view assignments, submit responses, and track their grade point average calculated server-side. The architecture features a reactive frontend built with React and React Router, utilizing modular components for separate dashboards, paired with a Node.js/Express backend that exposes REST APIs with session-based authentication and structured HTTP error handling. Data is stored in a relational database configured with many-to-many relationships. Key skills gained during development include relational schema modeling, designing authenticated REST APIs, managing client concurrency, and structuring a component-based user interface.
+TaskLass is a full-stack web platform developed for Web Applications 1, designed to digitize assignment creation, submission, and grading.
+
+- **User Roles:** Teachers create assignments for specific student groups and grade submitted work; students submit responses and track their server-calculated GPA.
+- **Architecture:** Reactive frontend built with React and React Router paired with a Node.js/Express backend exposing authenticated REST APIs with session management.
+- **Data Management:** Relational database schema modeling many-to-many relationships, REST APIs, and concurrency handling.
 
 <p align="center">
-  <img src="imgs/screenshot-1751640190460.png" alt="TaskLass Preview" width="100%">
+  <img src="imgs/screenshot-1751640190460.png" alt="TaskLass Web App Preview" width="100%" style="border-radius: 8px;" />
 </p>
+
+<br>
+
+---
 
 <div align="center">
 
 > *Always happy to talk about graphics, XR or anything computer vision related — feel free to reach out.* 🤗
 
-</div>
-
 <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square" alt="Made with love">
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/⬆%20Back%20to%20top-4CAF50?style=flat-square" alt="Back to top"></a>
+  &nbsp;&nbsp;
+  <a href="#top"><img src="https://img.shields.io/badge/⬆%20Back%20to%20top-4CAF50?style=flat-square" alt="Back to top"></a>
 </p>
+
+</div>
