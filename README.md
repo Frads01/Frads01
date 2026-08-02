@@ -131,9 +131,9 @@ In this project, a deep learning-based audio denoising pipeline was developed us
 
 <table>
   <tr>
-    <td><video src="audio/sample_010_clean.mp4" controls></video></td>
-    <td><video src="audio/sample_010_noisy.mp4" controls></video></td>
-    <td><video src="audio/sample_010_denoised.mp4" controls></video></td>
+    <td><video src="audio\sample_010_clean.mp4" controls></video></td>
+    <td><video src="audio\sample_010_noisy.mp4" controls></video></td>
+    <td><video src="audio\sample_010_denoised.mp4" controls></video></td>
   </tr>
 </table>
 
