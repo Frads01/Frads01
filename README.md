@@ -176,12 +176,13 @@ Users choose narrative paths (Adventure, Fantasy, Sci-Fi) and solve riddles to d
 
 Created for the Computer Graphics course, this project implements core principles of 3D rendering, modeling, and interactive visual computing. 
 
-It consists of a real-time 3D application built with OpenGL along with a 3D scene modeled in Blender using physics simulation techniques. 
+It consists of a real-time game application built with OpenGL along with a realistic 3D scene modeled in Blender using physics simulation techniques. 
 
-- **Features:** Navigable 3D environment, camera controls, geometric transformations, scene graph management, dynamic lighting (Phong/Blinn-Phong), texture mapping, and custom shaders.
+- **Features:** Geometric transformations, scene graph management, dynamic lighting (Phong/Blinn-Phong), texture mapping, and custom shaders.
 
 <p align="center">
-  <img src="imgs/ScenaCompleta.png" alt="3D Graphics Scene Preview" width="100%" style="border-radius: 8px;" />
+  <img src="imgs/ScenaCompleta.png" alt="3D Graphics Scene Preview" width="49%" style="border-radius: 8px;" />
+  <img src="imgs/compGraphicsGame.bmp" alt="Game Scene Preview" width="49%" style="border-radius: 8px;" />
 </p>
 
 ---
