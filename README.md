@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=180&section=header&text=Hello%20World,%20I'm%20Francesco!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Master+Student+in+Computer+Engineering;Extended,+Augmented+%26+Virtual+Reality;Computer+Vision+%26+3D+Graphics" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=3399FF&text=Hello%20World,%20I'm%20Francesco!&textBg=false&reversal=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=50&fontSize=35&fontAlignY=35" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=3399FF&center=true&vCenter=true&width=650&lines=Master+Student+in+Computer+Engineering;Extended,+Augmented+%26+Virtual+Reality;Computer+Vision+%26+3D+Graphics" alt="Typing SVG" />
 
 <a href="mailto:francescodisanto14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/francesco-di-santo-1b6ab7261/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -258,5 +258,5 @@ Quoridor is a from-scratch embedded implementation of the classic board game, de
   <a href="#top"><img src="https://img.shields.io/badge/⬆%20Back%20to%20top-4CAF50?style=flat-square" alt="Back to top"></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=100&section=footer" width="100%"/>
 </div>
