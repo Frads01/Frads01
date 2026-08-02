@@ -59,6 +59,7 @@ My main interests and focus areas:
 - [🕹️ Computer Graphics: 3D Modeling & Interactive Graphics](#computer-graphics)
 - [↔️ Multi-Platform Screen-Casting](#screen-casting)
 - [📚 TaskLass: Full-Stack Web Platform for School Assignments](#tasklass)
+- [🧱 Quoridor — Embedded Board Game](#quoridor)
 
 ---
 
@@ -224,7 +225,6 @@ Developed for the System Programming course at Politecnico di Torino, this cross
 ---
 
 <a id="quoridor"></a>
-
 ### 🧱 [Quoridor — Embedded Board Game](https://github.com/Frads01/ase-quoridor)
 
 <p>
