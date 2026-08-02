@@ -1,54 +1,55 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=180&section=header&text=Hello%20World,%20I'm%20Francesco!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=&descAlignY=55" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Master+Student+in+Computer+Engineering;Extended,+Augmented+%26+Virtual+Reality;Computer+Vision+%26+3D+Graphics" alt="Typing SVG" />
+
+<a href="mailto:francescodisanto14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/francesco-di-santo-1b6ab7261/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Frads01/Frads01/blob/main/cv_eng.pdf"><img src="https://img.shields.io/badge/CV%20(English)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV English"></a>
+<a href="https://github.com/Frads01/Frads01/blob/main/cv_ita.pdf"><img src="https://img.shields.io/badge/CV%20(Italiano)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV Italian"></a>
+
+<br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cs,rust,c,cpp,java,js,ts,react" alt="My Skills" />
+</a>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=unity,blender,opencv,vscode,pycharm,rider,clion,idea,windows,linux" alt="My Skills" />
+</a>
+
+</div>
+
+<!--
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Master+Student+in+Computer+Engineering;Extended%2C+Augmented+%26+Virtual+Reality;Computer+Vision+%26+3D+Graphics" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Frads01&label=Profile%20Views&color=4CAF50&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Frads01?label=Followers&style=flat-square&color=4CAF50" alt="GitHub Followers" />
 </p>
+-->
 
-<p align="center">
-  <a href="mailto:francescodisanto14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/francesco-di-santo-1b6ab7261/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Frads01/Frads01/blob/main/cv_eng.pdf"><img src="https://img.shields.io/badge/CV%20(English)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV English"></a>
-  <a href="https://github.com/Frads01/Frads01/blob/main/cv_ita.pdf"><img src="https://img.shields.io/badge/CV%20(Italiano)-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV Italian"></a>
-</p>
+<br>
 
----
+> [!NOTE]
+> <i>The README for this profile is currently under construction. In the meantime, you can check out the projects I have contributed to below!</i>
 
-## ℹ️ About Me
+<div>
+
+## ℹ️ About me!
 
 Master's student in Computer Engineering at **Politecnico di Torino**, specializing in **Computer Graphics & Multimedia**. 
 
 My main interests and focus areas:
-- 🥽 **Extended, Augmented & Virtual Reality (XR/AR/VR)**
-- 🎨 **3D Graphics, Shaders & Modeling**
+- 🥽 **Extended, Augmented & Virtual Reality**
+- 🎨 **3D Graphics & Modeling**
 - 👁️ **Computer Vision & Image Processing**
 - 🎵 **Audio Elaboration & Signal Processing**
-- 🤖 **Machine Learning & Deep Learning Applications**
+- 🤖 **Machine Learning applied to Vision and Multimedia**
 
-> 🔬 *Currently completing a Master's thesis on evaluating cognitive states in XR environments through active and passive brain-computer interfaces (BCIs).*
-
-> [!NOTE]
-> *The README for this profile is currently under construction. In the meantime, feel free to explore my featured projects below!*
+*Currently completing a Master's thesis on evaluating cognitive states in XR environments through active and passive brain-computer interfaces.*
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <b>Languages & Frameworks</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,rust,c,cpp,java,js,ts,react" alt="Languages & Frameworks" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Engines, Graphics & Software Tools</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,blender,opencv,vscode,pycharm,rider,clion,idea,windows,linux" alt="Tools & Software" />
-  </a>
-</p>
-
----
-
-## 📖 Table of Contents
+## 🚀 Featured Projects
 
 - [👀 Facial Verification — Geometric Landmarks vs. Neural Embeddings](#facial-verification)
 - [🚗 DriveAcademyVR — VR Driving School Simulator](#driveacademyvr)
@@ -61,10 +62,7 @@ My main interests and focus areas:
 
 ---
 
-## 🚀 Featured Projects
-
 <a id="facial-verification"></a>
-
 ### 👀 [Facial Verification — Geometric Landmarks vs. Neural Embeddings](https://github.com/SalvatoreGiugliano98/FaceVerification)
 
 <p>
@@ -84,12 +82,9 @@ The application features real-time face detection, a 3D facial viewer, live dual
   <img src="imgs/sg3d.bmp" alt="Facial Verification Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
-<br>
-
 ---
 
 <a id="driveacademyvr"></a>
-
 ### 🚗 [DriveAcademyVR — VR Driving School Simulator](https://github.com/SalvatoreGiugliano98/DriveAcademyVR)
 
 <p>
@@ -103,22 +98,13 @@ Drive Academy VR is a virtual reality driving school simulator developed for the
 Built with realistic vehicle physics, the system features a fully interactive cockpit where users manually operate controls (steering wheel, gear shift, turn signals, handbrake, seatbelt), backed by a diegetic UI integrated into the dashboard. Operating within a grid-based city filled with traffic and pedestrians, the application tracks performance, provides immediate visual, auditory, and haptic feedback on infractions, and includes an introductory tutorial module.
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=g6p-ZQi5erc" title="Watch Demo Video on YouTube">
-    <img src="imgs/driveacademy.png" alt="DriveAcademyVR Video Preview" width="100%" style="border-radius: 8px;" />
-  </a>
-</p>
-
-<p align="center">
   <img src="imgs/driveacademy_examp.png" alt="DriveAcademyVR Preview 1" width="49%" style="border-radius: 6px;" />
   <img src="imgs/driveacademy_examp3.png" alt="DriveAcademyVR Preview 2" width="49%" style="border-radius: 6px;" />
 </p>
 
-<br>
-
 ---
 
 <a id="noise-reduction"></a>
-
 ### 🎵 [Song Noise Reduction Without Clean Training Data](https://github.com/Frads01/mlvm-noise-remover)
 
 <p>
@@ -137,12 +123,9 @@ Adopting the **Noise2Noise** paradigm, the network was trained exclusively on pa
   <img src="imgs/dcunet20.png" alt="Noise Reduction Spectrogram" width="100%" style="border-radius: 8px;" />
 </p>
 
-<br>
-
 ---
 
 <a id="canoa-slalom"></a>
-
 ### 📹 [Canoa Slalom — Video Performance Analysis](https://github.com/Frads01/ipcv-canoa)
 
 <p>
@@ -159,12 +142,9 @@ Developed for the Image Processing and Computer Vision course at Politecnico di 
   <img src="imgs/CanoaSlalom.png" alt="Canoa Slalom Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
-<br>
-
 ---
 
 <a id="museum-adventure"></a>
-
 ### 🏛️ [My Museum Adventure — Gamified Museum Guide](https://github.com/SalvatoreGiugliano98/my-museum-adventure-main)
 
 <p>
@@ -183,12 +163,9 @@ Users choose narrative paths (Adventure, Fantasy, Sci-Fi) and solve riddles to d
   <img src="imgs/MyMuseumAdventure.png" alt="My Museum Adventure Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
-<br>
-
 ---
 
 <a id="computer-graphics"></a>
-
 ### 🕹️ [Computer Graphics: 3D Modeling and Interactive Graphics Application](https://github.com/SalvatoreGiugliano98/Computer-Graphics)
 
 <p>
@@ -207,12 +184,9 @@ It consists of a real-time 3D application built with OpenGL along with a 3D scen
   <img src="imgs/ScenaCompleta.png" alt="3D Graphics Scene Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
-<br>
-
 ---
 
 <a id="screen-casting"></a>
-
 ### ↔️ [Multi-Platform Screen-Casting](https://github.com/Frads01/pds-screencast)
 
 <p>
@@ -222,15 +196,12 @@ It consists of a real-time 3D application built with OpenGL along with a 3D scen
 
 Developed for the System Programming course at Politecnico di Torino, this cross-platform PC application in Rust enables low-latency real-time screen sharing on Windows, macOS, and Linux using IPv4 multicast with an intuitive `egui` GUI.
 
-- 📤 **Sender:** Configures IP/port and monitor selection. Real-time controls to pause sharing, send a blank white screen, draw annotations (rectangles, arrows), share specific regions, or stop stream with hotkeys (`Ctrl+P`, `Ctrl+B`, `Ctrl+D`, `Ctrl+S`, `Ctrl+Q`). Includes fallback handling if a monitor disconnects.
-- 📥 **Receiver:** Connects via IPv4 multicast, featuring session exit options and built-in screen recording powered by FFmpeg (with automatic download handling if not pre-installed).
-
-<br>
+- **Sender:** Configures IP/port and monitor selection. Real-time controls to pause sharing, send a blank white screen, draw annotations (rectangles, arrows), share specific regions, or stop stream with hotkeys (`Ctrl+P`, `Ctrl+B`, `Ctrl+D`, `Ctrl+S`, `Ctrl+Q`). Includes fallback handling if a monitor disconnects.
+- **Receiver:** Connects via IPv4 multicast, featuring session exit options and built-in screen recording powered by FFmpeg (with automatic download handling if not pre-installed).
 
 ---
 
 <a id="tasklass"></a>
-
 ### 📚 [TaskLass: Full-Stack Web Platform for Managing and Grading School Assignments](https://github.com/Frads01/progetto-webapp1)
 
 <p>
@@ -249,12 +220,10 @@ TaskLass is a full-stack web platform developed for Web Applications 1, designed
   <img src="imgs/screenshot-1751640190460.png" alt="TaskLass Web App Preview" width="100%" style="border-radius: 8px;" />
 </p>
 
-<br>
-
 ---
 
 <div align="center">
-
+  
 > *Always happy to talk about graphics, XR or anything computer vision related — feel free to reach out.* 🤗
 
 <br>
@@ -265,4 +234,5 @@ TaskLass is a full-stack web platform developed for Web Applications 1, designed
   <a href="#top"><img src="https://img.shields.io/badge/⬆%20Back%20to%20top-4CAF50?style=flat-square" alt="Back to top"></a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=100&section=footer" width="100%"/>
 </div>
