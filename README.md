@@ -48,7 +48,7 @@ My main interests and focus areas:
 - [🚗 DriveAcademyVR — VR Driving School Simulator](#driveacademyvr)
 - [🎵 Song Noise Reduction Without Clean Training Data](#noise-reduction)
 - [📹 Canoa Slalom — Video Performance Analysis](#canoa-slalom)
-- [🚶‍➡️ Computer Animation with Blender 4](#computer-animation)
+- [🚶‍➡️ 3D Computer Animation with Blender](#computer-animation)
 - [🏛️ My Museum Adventure — Gamified Museum Guide](#museum-adventure)
 - [🕹️ Computer Graphics: 3D Modeling & Interactive Graphics](#computer-graphics)
 - [↔️ Multi-Platform Screen-Casting](#screen-casting)
@@ -140,13 +140,13 @@ Developed for the Image Processing and Computer Vision course at Politecnico di 
 ---
 
 <a id="computer-animation"></a>
-### 🚶‍➡️ Computer Animation with Blender <a href="https://youtu.be/uH2S92eg6BA"><img src="https://img.shields.io/badge/-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a>
+### 🚶‍➡️ 3D Computer Animation with Blender <a href="https://youtu.be/uH2S92eg6BA"><img src="https://img.shields.io/badge/-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a>
 
 <p>
   <img src="https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=white" alt="Blender">
 </p>
 
-A 3D character animation created in, serving as a partial recreation of the iconic crane worker sequence from the [McVitie's "Sweeter Together" TV advert](https://www.youtube.com/watch?v=mSGbiOETgxA).
+A 3D character animation created in, serving as a partial recreation of the crane worker sequence from the [McVitie's "Sweeter Together" TV advert](https://www.youtube.com/watch?v=mSGbiOETgxA).
 
 The project focuses on stylized character mechanics and dynamic locomotion, translating the original choreography into an expressive, rhythmic sequence across an industrial crane structure. Key technical highlights include a custom skeletal rig with inverse kinematics (IK) for precise footwork along narrow steel beams, natural weight transfer and secondary bounce during dance turns and step variations, reactive prop motion (loose tie, safety harness, lunchbox, thermos), and a warm, atmospheric sunset lighting setup that captures the tone and depth of the reference commercial.
 
