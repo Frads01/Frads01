@@ -44,21 +44,21 @@ My main interests and focus areas:
 
 ## 🚀 Featured Projects
 
-- [👀 Facial Verification — Geometric Landmarks vs. Neural Embeddings](#facial-verification)
-- [🚗 DriveAcademyVR — VR Driving School Simulator](#driveacademyvr)
+- [👀 Geometric and Neural Facial Verification](#facial-verification)
+- [🚗 DriveAcademyVR: A VR Driving School Simulator](#driveacademyvr)
 - [🎵 Song Noise Reduction Without Clean Training Data](#noise-reduction)
-- [📹 Canoa Slalom — Video Performance Analysis](#canoa-slalom)
+- [📹 Canoe Slalom Video Analytics](#canoa-slalom)
 - [🚶‍➡️ 3D Computer Animation with Blender](#computer-animation)
-- [🏛️ My Museum Adventure — Gamified Museum Guide](#museum-adventure)
-- [🕹️ Computer Graphics: 3D Modeling & Interactive Graphics](#computer-graphics)
-- [↔️ Multi-Platform Screen-Casting](#screen-casting)
-- [📚 TaskLass: Full-Stack Web Platform for School Assignments](#tasklass)
-- [🧱 Quoridor — Embedded Board Game](#quoridor)
+- [🏛️ My Museum Adventure: A Gamified Museum Guide](#museum-adventure)
+- [🕹️ 3D Modeling and Interactive Graphics Application](#computer-graphics)
+- [📚 TaskLass: A Web Platform for School Assignments](#tasklass)
+- [↔️ Low-Latency Multi-Platform Screen-Casting](#screen-casting)
+- [🧱 Embedded Quoridor on ARM Cortex-M3](#quoridor)
 
 ---
 
 <a id="facial-verification"></a>
-### 👀 Facial Verification — Geometric Landmarks vs. Neural Embeddings <a href="https://github.com/SalvatoreGiugliano98/FaceVerification"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
+### 👀 Geometric and Neural Facial Verification <a href="https://github.com/SalvatoreGiugliano98/FaceVerification"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
 
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity">
@@ -80,7 +80,7 @@ The application features real-time face detection, a 3D facial viewer, live dual
 ---
 
 <a id="driveacademyvr"></a>
-### 🚗 DriveAcademyVR — VR Driving School Simulator <a href="https://github.com/SalvatoreGiugliano98/DriveAcademyVR"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a> <a href="https://frads01.itch.io/drive-academy"><img src="https://img.shields.io/badge/-FA5C5C?logo=itch.io&logoColor=white" alt="Itch.io"></a>
+### 🚗 DriveAcademyVR: A VR Driving School Simulator <a href="https://github.com/SalvatoreGiugliano98/DriveAcademyVR"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a> <a href="https://frads01.itch.io/drive-academy"><img src="https://img.shields.io/badge/-FA5C5C?logo=itch.io&logoColor=white" alt="Itch.io"></a>
 
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity">
@@ -121,7 +121,7 @@ Adopting the **Noise2Noise** paradigm, the network was trained exclusively on pa
 ---
 
 <a id="canoa-slalom"></a>
-### 📹 Canoa Slalom — Video Performance Analysis <a href="https://github.com/Frads01/ipcv-canoa"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
+### 📹 Canoe Slalom Video Analytics <a href="https://github.com/Frads01/ipcv-canoa"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
@@ -153,7 +153,7 @@ The project focuses on stylized character mechanics and dynamic locomotion, tran
 ---
 
 <a id="museum-adventure"></a>
-### 🏛️ My Museum Adventure — Gamified Museum Guide <a href="https://github.com/SalvatoreGiugliano98/my-museum-adventure-main"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
+### 🏛️ My Museum Adventure: A Gamified Museum Guide <a href="https://github.com/SalvatoreGiugliano98/my-museum-adventure-main"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
@@ -174,7 +174,7 @@ Users choose narrative paths (Adventure, Fantasy, Sci-Fi) and solve riddles to d
 ---
 
 <a id="computer-graphics"></a>
-### 🕹️ Computer Graphics: 3D Modeling and Interactive Graphics Application <a href="https://github.com/SalvatoreGiugliano98/Computer-Graphics"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.youtube.com/watch?v=jf31dyR1mW0"><img src="https://img.shields.io/badge/-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a>
+### 🕹️ 3D Modeling and Interactive Graphics Application <a href="https://github.com/SalvatoreGiugliano98/Computer-Graphics"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.youtube.com/watch?v=jf31dyR1mW0"><img src="https://img.shields.io/badge/-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a>
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++">
@@ -196,7 +196,7 @@ It consists of a real-time game application built with OpenGL along with a reali
 ---
 
 <a id="tasklass"></a>
-### 📚 TaskLass: Full-Stack Web Platform for Managing and Grading School Assignments <a href="https://github.com/Frads01/progetto-webapp1"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
+### 📚 TaskLass: A Web Platform for School Assignments <a href="https://github.com/Frads01/progetto-webapp1"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
@@ -217,7 +217,7 @@ TaskLass is a full-stack web platform developed for Web Applications 1, designed
 ---
 
 <a id="screen-casting"></a>
-### ↔️ Multi-Platform Screen-Casting <a href="https://github.com/Frads01/pds-screencast"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
+### ↔️ Low-Latency Multi-Platform Screen-Casting <a href="https://github.com/Frads01/pds-screencast"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust">
@@ -232,7 +232,7 @@ Developed for the System Programming course at Politecnico di Torino, this cross
 ---
 
 <a id="quoridor"></a>
-### 🧱 Quoridor — Embedded Board Game <a href="https://github.com/Frads01/ase-quoridor"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
+### 🧱 Embedded Quoridor on ARM Cortex-M3 <a href="https://github.com/Frads01/ase-quoridor"><img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" alt="GitHub"></a>
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C">
