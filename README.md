@@ -248,12 +248,6 @@ Quoridor is a from-scratch embedded implementation of the classic board game, de
 
 ---
 
-<div align="center">
-  
-> *Always happy to talk about graphics, XR or anything computer vision related — feel free to reach out.* 🤗
-
-<br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square" alt="Made with love">
   &nbsp;&nbsp;
