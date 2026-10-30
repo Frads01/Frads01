@@ -150,9 +150,9 @@ A 3D character animation created in, serving as a partial recreation of the cran
 The project focuses on stylized character mechanics and dynamic locomotion, translating the original choreography into an expressive, rhythmic sequence across an industrial crane structure. Key technical highlights include a custom skeletal rig with inverse kinematics (IK) for precise footwork along narrow steel beams, natural weight transfer and secondary bounce during dance turns and step variations, reactive prop motion (loose tie, safety harness, lunchbox, thermos), and a warm, atmospheric sunset lighting setup that captures the tone and depth of the reference commercial.
 
 <p align="center">
-  <img src="imgs/clip1.gif" alt="Clip 1" width="auto" style="border-radius: 8px;" />
-  <img src="imgs/clip2.gif" alt="Clip 2" width="auto" style="border-radius: 8px;" />
-  <img src="imgs/clip3.gif" alt="Clip 3" width="auto" style="border-radius: 8px;" />
+  <img src="imgs/clip1.gif" alt="Clip 1" width="32%" style="border-radius: 8px;" />
+  <img src="imgs/clip2.gif" alt="Clip 2" width="32%" style="border-radius: 8px;" />
+  <img src="imgs/clip3.gif" alt="Clip 3" width="32%" style="border-radius: 8px;" />
 </p>
 
 ---
