@@ -10,7 +10,7 @@
 <br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cs,rust,c,cpp,java,js,ts,react" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,cs,rust,c,cpp,java,js,ts,react,claude,gemini" alt="My Skills" />
 </a>
 <br>
 <a href="https://skillicons.dev">
